@@ -762,7 +762,7 @@ __Article 9(1)__: "Sensitive Personal Data" are personal data, revealing __racia
     - __BIOMETRIC DATA (Art.4(14)).
     - Data relating to criminal offences and convictions are addressed separately (as criminal law lies outside the EU's legislative competence).
 
- __Examples:__
+__Examples:__
 
 * Religion
 * Political sympathies
@@ -789,72 +789,69 @@ Processing
 
 # What is Data Visualization?
 
-In the world of Big Data, data __visualization__ tools and technologies are __essential__ to __analyze massive amounts__ of information and make __data-driven decisions__. 
+Data __visualization__ tools and technologies are __essential__ to __analyze massive amounts__ of information and make __data-driven decisions__.
 
 Data visualization helps to tell stories by curating data into a form easier to understand, highlighting the __trends__ and __outliers__.
 
-Data visualization can also __unlock the ability of __less technical__ users to explore and interact with data
+Data visualization can also __unlock the ability of less technical__ users to explore and interact with data
 
- _A good visualization tells a story, removing the noise from data and highlighting the useful information._
+_A good visualization tells a story, removing the noise from data and highlighting the useful information._
 
-![](img/orig_86.jpg)
+![Examples of charts](img/orig_86.jpg)
 
-# The Power of Visuals (1/4)
+# The Power of Visuals
 
- _A picture tells more than a thousand words. A chart tells more than a million data points_
+_A picture tells more than a thousand words. A chart tells more than a million data points_
 
 __Human Vision__
 
 Humans are visual by __Nature__
 
- __90__ percent of information transmitted to the brain is __visual__
-
- __65__ percent of the population are visual learners, __graphics__ are __key__ to __engaging__ employees
+- __90__ percent of information transmitted to the brain is __visual__
+- __65__ percent of the population are visual learners, __graphics__ are __key__ to __engaging__ employees
 
 The human brain processes __Visual__ data _60.000 times_ better than __Textual__ data
 
-![](img/orig_87.png)
+::::{.columns}
+:::{.column width=50%}
+![Chart](img/orig_87.png)
+:::
+:::{.column width=50%}
+![Chart](img/orig_88.png)
+:::
+::::
 
-![](img/orig_88.png)
+# The Power of Visuals
 
-# The Power of Visuals (2/4)
+Visual Deception
 
-__Visual Deception - Escher__
+::::{.columns}
+:::{.column width=50%}
+![Chart](img/orig_89.png)
+:::
+:::{.column width=50%}
+![Escher](img/orig_90.png)
+:::
+::::
 
-![](img/orig_89.jpg)
+# The Power of Visuals
 
-![](img/orig_90.jpg)
+![Different feeling of interpretation](img/orig_91.png)
 
-# The Power of Visuals (3/4)
+# The Power of Visuals
 
-__Visual Deception - different feeling of interpretation__
+[How to lie with data visualization](https://heap.io/blog/data-stories/how-to-lie-with-data-visualization)
 
-![](img/orig_91.png)
-
-Assi y hanno una scala differente, e ciò porta a una diversa "percezione" della realtà
-
-What's wrong?
-same data, same axes  different scale of axis  different 'feeling' and interpretation
-
-Link: https://heap.io/blog/data-stories/how-to-lie-with-data-visualization 
-
-# The Power of Visuals (4/4)
-
-![](img/orig_92.jpg)
+![Upside down Y-axes](img/orig_92.jpg)
 
 __Visual Deception - an __upside down Y-axes with descending (instead of ascending) values to the top might for a moment give the _wrong_ impression that the ‘Stand your ground law' was _positive_ in relation to gun deaths
 
-![](img/orig_93.jpg)
+> A stand-your-ground law, sometimes called a "line in the sand" or "no duty to retreat" law, provides that people may use deadly force when they reasonably believe it to be necessary to defend against certain violent crimes (right of self-defense). Under such a law, people have no duty to retreat before using deadly force in self-defense, so long as they are in a place where they are lawfully present.
 
-Dopo che la Florida ha approvato la legittima difesa le morti AUMENTANO anzichè diminuire (come potrebbe sembrare perchè la curva scende)
 
-A stand-your-ground law, sometimes called a "line in the sand" or "no duty to retreat" law, provides that people may use deadly force when they reasonably believe it to be necessary to defend against certain violent crimes (right of self-defense). Under such a law, people have no duty to retreat before using deadly force in self-defense, so long as they are in a place where they are lawfully present.
+How does it feel when you interpret an upside down Y-axes with descending (instead of ascending) values to the top?
 
-What's wrong?
-How does it feel when you interpret an upside down Y-axes with descending (instead of ascending) values to the top
-This might for a moment give the wrong impression that the ‘Stand your ground law' was positive in relation to gun deaths
-
-Link: https://heap.io/blog/data-stories/how-to-lie-with-data-visualization 
+- This might for a moment give the wrong impression that the ‘Stand your ground law' was positive in relation to gun deaths
 
 # Information Visualization Do's
 
