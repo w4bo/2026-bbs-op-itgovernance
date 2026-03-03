@@ -1,3 +1,9 @@
+## 1.0.0 (2026-03-03)
+
+### Bug Fixes
+
+* new version ([b8a5cd0](https://github.com/w4bo/2026-bbs-op-itgovernance/commit/b8a5cd08d5948b3f28676b28178d016a6375709f))
+
 ## [1.0.14](https://github.com/w4bo/slides-markdown/compare/1.0.13...1.0.14) (2025-12-11)
 
 ### Dependency updates
