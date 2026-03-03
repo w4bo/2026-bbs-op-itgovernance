@@ -1112,7 +1112,7 @@ __Applications:__   ​
 
 # AI: definition and types
 
-_According to the Computer Science view:_ __" Intelligent agents"__ perceiving their environment and taking __actions__ to achieve a __goal__.
+_According to the Computer Science view:_ __"Intelligent agents"__ perceiving their environment and taking __actions__ to achieve a __goal__.
 
 _Narrow or Weak AI_ performs some __traditional goals__
 
@@ -1138,7 +1138,7 @@ Agent comes from the Latin "agere" - to do.
 
 ::::{.columns}
 :::{.column width=70%}
-__Stuart Russell and Peter Norvig__'s book, _Artificial Intelligence - A Modern Approach_, 3rd edition, defines a __rational agent__
+__Stuart Russell and Peter Norvig__'s book, _Artificial Intelligence - A Modern Approach_ defines an __agent__
 
 > "For each possible percept sequence, a rational agent should select an action that is expected to maximize its performance measure, given the evidence provided by the percept sequence and whatever built in knowledge the agent has."
 
