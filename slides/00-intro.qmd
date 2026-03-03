@@ -63,21 +63,17 @@ Processing
 
 Data has become the __fuel__ of industries as companies require data to function, grow and improve their businesses
 
-Analysing a large amount of data to derive __meaningful insights__, with the help of Data Scientists assist companies in making valuable (and rationalized) decisions
+> Analysing a large amount of data to derive __meaningful insights__, with the help of Data Scientists assist companies in making valuable (and rationalized) decisions
 
-__Real__ world __problems__ can be __solved__ with Data Science
-
-The number of __roles__ for Data Scientists has __grown__ by __650__  % since 2012.
-
-About __11.5 Million jobs will__ be __created by 2026 __ according to the U.S. Bureau of Labor Statistics.
-
-Data Science has __applications__ in __several__ fields
-
-Data Science is a very robust field that best fits people who enjoy __experimentation__ and __problem-solving__
+- __Real__ world __problems__ can be __solved__ with Data Science
+- The number of __roles__ for Data Scientists has __grown__ by __650__% since 2012.
+- About __11.5 Million jobs will__ be __created by 2026__ according to the U.S. Bureau of Labor Statistics.
+- Data Science has __applications__ in __several__ fields
+- Data Science is a very robust field that best fits people who enjoy __experimentation__ and __problem-solving__
 
 # What is Data Science?
 
-"Data Science is about extraction, preparation, analysis, visualization, and maintenance of information. It is a cross-disciplinary field which uses scientific methods and processes to draw insights from data."
+> "*Data Science* is about extraction, preparation, analysis, visualization, and maintenance of information. It is a cross-disciplinary field which uses scientific methods and processes to draw insights from data."
 
 ![Data Science](img/ds-01.svg)
 
@@ -688,110 +684,90 @@ Processing
 - Artificial Intelligence (AI)
 - Machine Learning (ML)
 
-# What is Data Management? - (1/2)
+# What is Data Management?
 
 Having data and using it means it _needs_ to be _managed_.
 
-The _Data Management Body of Knowledge _   (DMBOK) model defines _how_ to _manage data_ in a professional organisation.
+The _Data Management Body of Knowledge_ (DMBOK) model defines _how_ to _manage data_ in a professional organisation.
 
-DAMA-DMBOK represents data management in the form of _11 Knowledge Areas_, represented on the famous DAMA Wheel. At the _heart_ of data management is __Data Governance__.
+DAMA-DMBOK represents data management in the form of _11 Knowledge Areas_, represented on the famous DAMA Wheel.
+
+- At the _heart_ of data management is __Data Governance__.
 
 ![Source: "DAMA-DMBOK: Data Management Body of Knowledge"](img/orig_62.png)
 
 # What is Data Governance?
 
-![](img/orig_64.png)
+![Data Governance](img/orig_64.png)
 
-_Data governance is a system for defining _
+Data governance is a system for defining who within an organization has authority and control over data assets how those data assets may be used.
 
- _who within an organization has authority and control over data assets _
-
- _how those data assets may be used. _
-
-_It encompasses the people, processes, and technologies required to manage and protect data assets._
+- It encompasses the people, processes, and technologies required to manage and protect data assets.
 
 # Goals of Data Governance
 
-Define, approve and communicate __data strategies__, policies, standards, architecture and metrics (KPIs)  ​
+![Data Governance](img/orig_64.png)
 
-Follow and enforce __compliance__ with law, policies, standards, architecture and procedures
-
-Sponsor, follow and control __delivery__ of data management __projects__ and __services__   ​
-
- __Manage__ and __solve__ data related __issues__
-
-Understand and advocate __importance__ and __value__ of __data__ sets
-
-![](img/orig_65.png)
+- Define, approve and communicate __data strategies__, policies, standards, architecture and metrics (KPIs)  ​
+- Follow and enforce __compliance__ with law, policies, standards, architecture and procedures
+- Sponsor, follow and control __delivery__ of data management __projects__ and __services__   ​
+- __Manage__ and __solve__ data related __issues__
+- Understand and advocate __importance__ and __value__ of __data__ sets
 
 # Topics Closely Related to Data Governance
 
+![Data Governance](img/orig_64.png)
+
 Four examples of _topics closely related_ to _data governance_ are:
 
-* _Data stewardship _   - a __functional role__ in data management and governance, with responsibility for __ensuring__ that data __policies__ and __standards turn__ into __practice__ within the steward's domain
-
-* _Data quality _   - a __measure__ of the __condition__ of data based on factors such as _accuracy_, _completeness_, _consistency_, _reliability_ and whether it's up to date
-
-* _Master data management _   - a __discipline__ in which __business__ and __IT work together__ to ensure the uniformity, accuracy, stewardship, semantic consistency and accountability of the enterprise's official shared master data assets
-
-* _GDPR_    - the __biggest data privacy use case__ in Data Governance of recent years
-
-![](img/orig_66.png)
+* _Data stewardship_: a __functional role__ in data management and governance, with responsibility for __ensuring__ that data __policies__ and __standards turn__ into __practice__ within the steward's domain
+* _Data quality_: a __measure__ of the __condition__ of data based on factors such as _accuracy_, _completeness_, _consistency_, _reliability_ and whether it's up to date
+* _Master data management_: a __discipline__ in which __business__ and __IT work together__ to ensure the uniformity, accuracy, stewardship, semantic consistency and accountability of the enterprise's official shared master data assets
+* _GDPR_: the __biggest data privacy use case__ in Data Governance of recent years
 
 # GDPR - what is?
 
- _What is GDPR? _
+![GDPR](img/orig_67.jpg)
 
- _" Regulation on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation) "_
+> Regulation on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation)
 
-The General Data Protection Regulation is the __toughest privacy__ and __security law__ in the __world replacing__ national data protection laws of __all EU member states__.
+- The General Data Protection Regulation is the __toughest privacy__ and __security law__ in the __world replacing__ national data protection laws of __all EU member states__.
+- Though it was drafted and passed by the European Union (EU), it also has international reach - applying to any organization that processes data of EU data__ subjects.
+- The regulation was __put into __effect on May 25, 2018__. Fines for non-compliance will increase substantially up to a maximum fine of   € 20 million or 4% of global annual sales, whichever is higher
 
-Though it was drafted and passed by the European Union (EU), it also has __international __ reach - __applying __ to __any organization __ that __processes __ data of __EU __ data subjects.
-
-The regulation was __put __ into __effect __ on __May 25, 2018__. Fines for non-compliance will increase substantially up to a maximum fine of   € 20 million or 4% of global annual sales, whichever is higher
-
-![](img/orig_67.jpg)
 
 # GDPR - why?
 
- _Why GDPR?_
+GDPR IS ABOUT GIVING _CONTROL OVER PERSONAL DATA BACK TO PEOPLE_
 
-No _single_ set of rules in EU
+- No _single_ set of rules in EU
+- Uncontrolled _collection_ and _storage_ of personal data
+- Inability to _withdraw_ from direct marketing
+- No _control_ over provided consent
+- _Lack_ of procedures for data _accuracy_
+- _GDPR has fundamentally changed the way companies must manage personal data_
 
-Uncontrolled _collection_ and _storage_ of personal data
 
-Inability to _withdraw_ from direct marketing
-
-No _control_ over provided consent
-
- _Lack_ of procedures for data _accuracy_
-
- _GDPR has fundamentally changed the way companies must manage personal data_
-
-GDPR IS ABOUT GIVING _CONTROL_ OVER _PERSONAL_ DATA BACK TO _PEOPLE_
-
-# GDPR - personal data
+# GDPR - sensitive personal data
 
 _Personal data_
 
- __Article 4(1)__     - "Any information relating to an __identified__ or __identifiable__ natural person ("data subject"); an __identifiable person__ is one who can be identified, directly or indirectly, in particular __by reference to an identifier__ such as a _name_, an _identification_ number, _location_ data, online identifier or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that person."
-
- # GDPR - sensitive data
+__Article 4(1)__: "Any information relating to an __identified__ or __identifiable__ natural person ("data subject"); an __identifiable person__ is one who can be identified, directly or indirectly, in particular __by reference to an identifier__ such as a _name_, an _identification_ number, _location_ data, online identifier or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that person."
 
 _SENSITIVE Personal data_
 
- __Article 9(1)  - __ "Sensitive Personal Data" are personal data, revealing __racial__ or __ethnic__ origin, __political opinions__, __religious__ or __philosophical__ beliefs, trade-union membership; __DATA CONCERNING HEALTH __  (Art.4(15)) or sex life and sexual orientation; __GENETIC DATA __  (Art.4(13)) or __BIOMETRIC DATA __ (Art.4(14)). Data relating to criminal offences and convictions are addressed separately (as criminal law lies outside the EU's legislative competence).
+__Article 9(1)__: "Sensitive Personal Data" are personal data, revealing __racial__ or __ethnic__ origin, __political opinions__, __religious__ or __philosophical__ beliefs, trade-union membership;
+    - __DATA CONCERNING HEALTH  (Art.4(15)) or sex life and sexual orientation;
+    - __GENETIC DATA  (Art.4(13))
+    - __BIOMETRIC DATA (Art.4(14)).
+    - Data relating to criminal offences and convictions are addressed separately (as criminal law lies outside the EU's legislative competence).
 
  __Examples:__
 
 * Religion
-
 * Political sympathies
-
 * Race
-
 * DNA data
-
 * History of illnesses
 
 # Agenda
@@ -817,7 +793,7 @@ In the world of Big Data, data __visualization__ tools and technologies are __es
 
 Data visualization helps to tell stories by curating data into a form easier to understand, highlighting the __trends__ and __outliers__.
 
-Data visualization can also __unlock the ability __ of __less technical__ users to explore and interact with data
+Data visualization can also __unlock the ability of __less technical__ users to explore and interact with data
 
  _A good visualization tells a story, removing the noise from data and highlighting the useful information._
 
@@ -866,7 +842,7 @@ Link: https://heap.io/blog/data-stories/how-to-lie-with-data-visualization 
 
 ![](img/orig_92.jpg)
 
-__Visual Deception - __ an __upside down Y-axes __ with descending (instead of ascending) values to the top might for a moment give the _wrong_ impression that the ‘Stand your ground law' was _positive_ in relation to gun deaths
+__Visual Deception - an __upside down Y-axes with descending (instead of ascending) values to the top might for a moment give the _wrong_ impression that the ‘Stand your ground law' was _positive_ in relation to gun deaths
 
 ![](img/orig_93.jpg)
 
@@ -892,7 +868,7 @@ Design a _simple_ and _understandable_ data model
 
  _Pre-filter_ a dashboard to information that is _relevant_ for the user
 
-Make charts with the _Data-Ink ratio _ in mind
+Make charts with the _Data-Ink ratio_ in mind
 
 ![](img/orig_94.jpg)
 
@@ -900,7 +876,7 @@ Make charts with the _Data-Ink ratio _ in mind
 
 # Information Visualization Don'ts
 
-Don't use Pie Charts ( __google: _ save the pies for dessert_   )
+Don't use Pie Charts ( __google:_ save the pies for dessert_   )
 
 Don't overload the (Dashboard) user with information
 
@@ -945,7 +921,7 @@ The word __statistics__ was coined by __Gottfried Achenwall__   (1719-1772) and 
 
 __Gottfried Achenwall __
 
- __Statistics, __ that is " the science of collecting and analysing statistics" is defined by the Oxford dictionary as _"a discipline that concerns the collection, organization, analysis, interpretation, and presentation of data."_
+ __Statistics, that is " the science of collecting and analysing statistics" is defined by the Oxford dictionary as _"a discipline that concerns the collection, organization, analysis, interpretation, and presentation of data."_
 
 However, this term is also used as a _synonym_ for __data__, for _example_, _statistics of a basketball game_  (how may points were scored by each player,...)
 
@@ -953,13 +929,13 @@ However, this term is also used as a _synonym_ for __data__, for _example_, _sta
 
 # Populations and Samples
 
- __The primary _ objective _ of a statistical analysis is to infer _ characteristics _ of a _ group _ of data by analyzing the _ characteristics _ of a _ small_ _sampling _ of the group.__
+__The primary objective of a statistical analysis is to infer characteristics of a group of data by analyzing the characteristics of a small_ _sampling of the group.__
 
- _Population_  : In statistics, a __population__  (also called a universe) is a _set_ of similar _items_ or _events_ which is of _interest_ for some question or experiment.
+_Population_: In statistics, a __population__  (also called a universe) is a _set_ of similar _items_ or _events_ which is of _interest_ for some question or experiment.
 
 For _small_ populations, we can obtain _all_ values. However, populations are normally so large that obtaining all the measurements is unfeasible.
 
- __Sample __ is a set of individuals or objects _collected_ or _selected_ from a statistical population by a _defined procedure_.
+__Sample__ is a set of individuals or objects _collected_ or _selected_ from a statistical population by a _defined procedure_.
 
 To sample a population _randomly_ requires that _each member_ of the population has an _equal_ and independent _chance_ of being _selected_.
 
@@ -999,7 +975,7 @@ It was developed between two great French mathematicians, __Blaise Pascal __  (1
 
 * For example, a coin has two sides and when tossed will land with either the "head" side (H) up or the "tail" side (T) up, but not both. Or, a die has six sides and when thrown will land with either the 1, 2, 3, 4, 5, or 6 side up.
 
- __Sample space __ associated with a random experiment is _the set of all possible outcomes _ (H or T with the _coin_; or 1, 2, 3, 4, 5, or 6 with the _die_ ).
+ __Sample space __ associated with a random experiment is _the set of all possible outcomes_ (H or T with the _coin_; or 1, 2, 3, 4, 5, or 6 with the _die_ ).
 
  __Probability of an outcome __ is a number p between 0 and 1 that measures the likelihood that this outcome will occur on a single trial. The value _p = 0_ corresponds to the outcome e being _impossible_ and the value _p = 1_ corresponds to the outcome e being _certain_.
 
@@ -1017,7 +993,7 @@ It was developed between two great French mathematicians, __Blaise Pascal __  (1
 
 If two events have _no elements in common_, they are said to be _mutually exclusive_, and the two sets are said to be __disjoint__. The set that is the intersection of disjoint sets contains no elements and is often called the __empty set __ or the null set.
 
-_For example_, the events __"odd-numbered rolls" __ and __"even-numbered rolls" __ are mutually exclusive and there are _no elements common to both of them_.
+_For example_, the events __"odd-numbered rolls" and "even-numbered rolls"__ are mutually exclusive and there are _no elements common to both of them_.
 
 ![](img/orig_112.jpg)
 
@@ -1029,7 +1005,7 @@ _For example_, the events __"odd-numbered rolls" __ and __"even-numbered rolls" 
 
 It corresponds to combining descriptions of the two events using the word "or.".
 
-_For example_, The union of the events __"odd numbered" __ and __"rolls greater or equal than 2"__
+_For example_, The union of the events __"odd numbered" and __"rolls greater or equal than 2"__
 
 ![](img/orig_114.jpg)
 
@@ -1047,9 +1023,9 @@ __Multiplying probabilities__
 
 ![](img/orig_117.jpg)
 
-* _Example_, the probability of a tossed coin _landing heads_ is 0.5. If _two coins_ are tossed, the __probability of _ both _ coins landing heads is:__
+* _Example_, the probability of a tossed coin _landing heads_ is 0.5. If _two coins_ are tossed, the __probability of both coins landing heads is:__
 
-* P(H,H) = [P(H)][P(H)] = 0.5 \* 0.5 = 0.25
+* P(H,H) = [P(H)][P(H)] = 0.5 * 0.5 = 0.25
 
 # Basic Concepts in Probability (5/5)
 
@@ -1190,8 +1166,8 @@ Training: learn a model to generalize from training data
 ```{mermaid}
 %%| echo: false
 flowchart LR
- A[(Training Data)] --> B[Training / Model Learning]
- B --> C[(Trained Model)]
+    A[(Training Data)] --> B[Training / Model Learning]
+    B --> C[(Trained Model)]
 ```
 
 # Classification: Model-Based Methods
@@ -1208,11 +1184,11 @@ Testing: verify the generalization of the model on unseen data
 ```{mermaid}
 %%| echo: false
 flowchart LR
- A[(Test Data)] --> B[Trained Model]
- B --> C[(Predicted Class)]
- C --> D[Evaluation]
- E[(Real Class / Ground Truth)] --> D
- D --> F(Performance Metric)
+    A[(Test Data)] --> B[Trained Model]
+    B --> C[(Predicted Class)]
+    C --> D[Evaluation]
+    E[(Real Class / Ground Truth)] --> D
+    D --> F(Performance Metric)
 ```
 
 # Classification: Model-Based Methods
@@ -1230,12 +1206,12 @@ Instance-based methods: store training examples and compare new inputs to known 
 ```{mermaid}
 %%| echo: false
 flowchart LR
- A[(Test Data)] --> B[Compare]
- C[(Training Data)] --> B
- B --> D[(Predicted Class)]
- D --> E[Evaluation]
- F[(Real Class / Ground Truth)] --> E
- E --> G(Performance Metric)
+    A[(Test Data)] --> B[Compare]
+    C[(Training Data)] --> B
+    B --> D[(Predicted Class)]
+    D --> E[Evaluation]
+    F[(Real Class / Ground Truth)] --> E
+    E --> G(Performance Metric)
 ```
 
 # Classification: Instance-Based Methods
@@ -1246,7 +1222,7 @@ flowchart LR
 
 _Reinforcement machine learning algorithms_ interact with their environment by producing actions and discovering errors or rewards.
 
-- _Trial and error search _ and _delayed reward _ are the most relevant characteristics of reinforcement learning.
+- _Trial and error search_ and _delayed reward_ are the most relevant characteristics of reinforcement learning.
 
 - Allows machines and software agents to _automatically determine_ the _ideal behavior_ within a specific context in order to maximize its performance.
 
@@ -1311,7 +1287,7 @@ _(Alan Turing)_
 
 * Reasoning, planning, learning, natural language processing, image recognition ...
 
- _Artificial general intelligence (AGI)_, also __called_ Strong AI_   :
+ _Artificial general intelligence (AGI)_, also __called_ Strong AI_:
 
 * Performs a full range of human abilities
 
@@ -1327,18 +1303,18 @@ _(Alan Turing)_
 
 Agent comes from the Latin "agere" - to do.
 
-In AI we assume _agents_ are _rational_ and are _expected_ to achieve the _best_ outcome or _best expected_ outcome if there is _uncertainty_. They also act " _autonomously_  "!
+In AI we assume _agents_ are _rational_ and are _expected_ to achieve the _best_ outcome or _best expected_ outcome if there is _uncertainty_. They also act "_autonomously_"!
 
 _There are other approaches based on human behaviour or human thought but this approach is the most amenable to scientific development._
 
 
 # Artificial intelligence and the rational agent - 2/2
 
-* __Stuart Russell __ and __Peter Norvig__   's book, _Artificial Intelligence - A Modern Approach_, 3rd edition, defines a __rational agent__
+* __Stuart Russell and Peter Norvig__'s book, _Artificial Intelligence - A Modern Approach_, 3rd edition, defines a __rational agent__
 
-* _"For each possible percept sequence, a rational agent should select an action that is expected to maximize its performance measure, given the evidence provided by the percept sequence and whatever built in knowledge the agent has."_
+> "For each possible percept sequence, a rational agent should select an action that is expected to maximize its performance measure, given the evidence provided by the percept sequence and whatever built in knowledge the agent has."
 
-* We expect agents to be rational and this depends on _four things_   :
+* We expect agents to be rational and this depends on _four things_:
 
 * The performance _measure_ that defines the criterion of _success_
 
@@ -1350,33 +1326,25 @@ _There are other approaches based on human behaviour or human thought but this a
 
 ![](img/orig_152.png)
 
-![](img/orig_153.png)
-
 # Schematic of AI (the Computer Science view) - 1/2
 
-__External Task Environment __
+__External Task Environment__
 
-![](img/orig_154.png)
-
-__Percept __
-
-_the collective term of all the agent's perceptual inputs at any given time _
+__Percept__: the collective term of all the agent's perceptual inputs at any given time
 
 ![](img/orig_155.png)
 
-__Action__
+__Action__: to manipulate the environment
 
-_to manipulate the environment_
-
-* _"Learn from experience, adapt, understand and handle abstract concepts, manipulate our environment"._
+> "Learn from experience, adapt, understand and handle abstract concepts, manipulate our environment".
 
 # Schematic of AI (the Computer Science view) - 2/2
 
-__External Task Environment __
+__External Task Environment__
 
 ![](img/orig_156.png)
 
-__Percept __
+__Percept__
 
 _the collective term of all the agent's perceptual inputs at any given time _
 
@@ -1401,7 +1369,7 @@ _to manipulate the environment_
 # Agent examples
 
 | Agent Description | Performance Measure | Environment | Actuators | Sensors |
-| :-: | :-: | :-: | :-: | :-: |
+|:-: |:-: |:-: |:-: |:-: |
 | __Central heating thermostat__ | Temperature, heating cost | Building, inhabitants, heating system | Inhabitant display, boiler, power | Temperature, keypad, phone, computer |
 | __Interactive sales chatbot__ | Number of sales | Customers, sale environment (internet, store, phone) | Robot, display, speaker | Keyboard, microphone, camera, kinesthetic sensors |
 
