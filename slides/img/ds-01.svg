@@ -1,0 +1,398 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="301.02332mm"
+   height="161.17569mm"
+   viewBox="0 0 301.02332 161.17569"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (ebf0e94, 2025-05-08)"
+   sodipodi:docname="ds-01.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="1.0022096"
+     inkscape:cx="634.0989"
+     inkscape:cy="506.3811"
+     inkscape:window-width="2552"
+     inkscape:window-height="1343"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <clipPath
+       id="clip0">
+      <rect
+         x="116"
+         y="233"
+         width="1289"
+         height="639"
+         id="rect1" />
+    </clipPath>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(62.819578,-14.392402)">
+    <g
+       clip-path="url(#clip0)"
+       transform="matrix(0.26458333,0,0,0.26458333,-117.21042,-50.270834)"
+       id="g31">
+      <path
+         d="m 623.5,417.5 c 0,-93.888 76.335,-170 170.5,-170 94.165,0 170.5,76.112 170.5,170 0,93.888 -76.335,170 -170.5,170 -94.165,0 -170.5,-76.112 -170.5,-170 z"
+         stroke="#ffffff"
+         stroke-width="3.33333"
+         stroke-linejoin="round"
+         stroke-miterlimit="10"
+         fill="#2e75b6"
+         fill-rule="evenodd"
+         fill-opacity="0.760784"
+         id="path1" />
+      <path
+         d="m 735.5,593.5 c 0,-93.888 76.335,-170 170.5,-170 94.16,0 170.5,76.112 170.5,170 0,93.888 -76.34,170 -170.5,170 -94.165,0 -170.5,-76.112 -170.5,-170 z"
+         stroke="#ffffff"
+         stroke-width="3.33333"
+         stroke-linejoin="round"
+         stroke-miterlimit="10"
+         fill="#ffff00"
+         fill-rule="evenodd"
+         fill-opacity="0.501961"
+         id="path2" />
+      <path
+         d="m 516.5,593.5 c 0,-93.888 76.112,-170 170,-170 93.888,0 170,76.112 170,170 0,93.888 -76.112,170 -170,170 -93.888,0 -170,-76.112 -170,-170 z"
+         stroke="#ffffff"
+         stroke-width="3.33333"
+         stroke-linejoin="round"
+         stroke-miterlimit="10"
+         fill="#afabab"
+         fill-rule="evenodd"
+         fill-opacity="0.670588"
+         id="path3" />
+      <text
+         fill="#ffffff"
+         font-family="Calibri, Calibri_MSFontService, sans-serif"
+         font-weight="700"
+         font-size="23px"
+         transform="translate(755.349,344)"
+         id="text15">Domain <tspan
+   font-size="23px"
+   x="-15.5583"
+   y="25"
+   id="tspan3">Knowledge</tspan><tspan
+   fill="#000000"
+   font-size="23px"
+   x="-165.964"
+   y="282"
+   id="tspan4">Computer</tspan><tspan
+   fill="#000000"
+   font-size="23px"
+   x="-153.814"
+   y="307"
+   id="tspan5">Science</tspan><tspan
+   fill="#000000"
+   font-size="23px"
+   x="114.93"
+   y="260"
+   id="tspan6">Mathematical &amp;</tspan><tspan
+   fill="#000000"
+   font-size="23px"
+   x="146.214"
+   y="285"
+   id="tspan7">Statistical</tspan><tspan
+   fill="#000000"
+   font-size="23px"
+   x="150.63"
+   y="310"
+   id="tspan8">Aptitude</tspan><tspan
+   fill="#44546a"
+   font-size="23px"
+   x="17.056601"
+   y="174"
+   id="tspan9">Data</tspan><tspan
+   fill="#44546a"
+   font-size="23px"
+   x="3.6066899"
+   y="196"
+   id="tspan10">Science</tspan><tspan
+   font-weight="400"
+   font-size="18px"
+   x="-99.020203"
+   y="123"
+   id="tspan11">Data Engineer</tspan><tspan
+   fill="#44546a"
+   font-weight="400"
+   font-size="18px"
+   x="5.7890601"
+   y="276"
+   id="tspan12">Machine</tspan><tspan
+   fill="#44546a"
+   font-weight="400"
+   font-size="18px"
+   x="6.1057701"
+   y="297"
+   id="tspan13">Learning</tspan><tspan
+   fill="#44546a"
+   font-weight="400"
+   font-size="18px"
+   x="83.6241"
+   y="124"
+   id="tspan14">Research &amp;</tspan><tspan
+   fill="#44546a"
+   font-weight="400"
+   font-size="18px"
+   x="96.024101"
+   y="145"
+   id="tspan15">Analysis</tspan></text>
+      <path
+         d="M 0,0 38.148,1.31234e-4"
+         stroke="#000000"
+         stroke-width="1.66667"
+         stroke-linejoin="round"
+         stroke-miterlimit="10"
+         fill="none"
+         fill-rule="evenodd"
+         transform="matrix(-1,0,0,1,571.148,496)"
+         id="path15" />
+      <text
+         fill="#44546a"
+         font-family="Calibri, Calibri_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="20px"
+         transform="translate(203.892,495)"
+         id="text17">Database Languages (SQL, Hadoop)<tspan
+   font-size="20px"
+   x="106.19"
+   y="46"
+   id="tspan16">Data governance</tspan><tspan
+   font-size="20px"
+   x="81.958603"
+   y="100"
+   id="tspan17">Data Preprocessing</tspan></text>
+      <path
+         d="m 526,672 h 35.096"
+         stroke="#000000"
+         stroke-width="1.66667"
+         stroke-linejoin="round"
+         stroke-miterlimit="10"
+         fill="none"
+         fill-rule="evenodd"
+         id="path17" />
+      <path
+         d="m 525,672 v 78.907"
+         stroke="#000000"
+         stroke-width="1.66667"
+         stroke-linejoin="round"
+         stroke-miterlimit="10"
+         fill="none"
+         fill-rule="evenodd"
+         id="path18" />
+      <path
+         d="M 0,0 48.8295,1.31234e-4"
+         stroke="#000000"
+         stroke-width="1.66667"
+         stroke-linejoin="round"
+         stroke-miterlimit="10"
+         fill="none"
+         fill-rule="evenodd"
+         transform="matrix(-1,0,0,1,524.83,751)"
+         id="path19" />
+      <path
+         d="M 0,0 128.178,1.31234e-4"
+         stroke="#000000"
+         stroke-width="1.66667"
+         stroke-linejoin="round"
+         stroke-miterlimit="10"
+         fill="none"
+         fill-rule="evenodd"
+         transform="matrix(-1,0,0,1,524.178,690)"
+         id="path20" />
+      <text
+         fill="#44546a"
+         font-family="Calibri, Calibri_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="20px"
+         transform="translate(247.447,690)"
+         id="text20">Data Validation<tspan
+   font-size="20px"
+   x="47.769402"
+   y="58"
+   id="tspan20">Data Infrastructure</tspan></text>
+      <path
+         d="M 852,260 H 989.333"
+         stroke="#000000"
+         stroke-width="1.66667"
+         stroke-linejoin="round"
+         stroke-miterlimit="10"
+         fill="none"
+         fill-rule="evenodd"
+         id="path21" />
+      <text
+         fill="#44546a"
+         font-family="Calibri, Calibri_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="20px"
+         transform="translate(1019.1,258)"
+         id="text21">Client Requirements<tspan
+   font-size="20px"
+   x="-10.3472"
+   y="54"
+   id="tspan21">Highlight important criteria</tspan></text>
+      <path
+         d="m 941,372 h 36.622"
+         stroke="#000000"
+         stroke-width="1.66667"
+         stroke-linejoin="round"
+         stroke-miterlimit="10"
+         fill="none"
+         fill-rule="evenodd"
+         id="path22" />
+      <text
+         fill="#44546a"
+         font-family="Calibri, Calibri_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="20px"
+         transform="translate(1020.28,370)"
+         id="text22">Easier explanation of technical concepts</text>
+      <path
+         d="M 0,0 38.148,1.31234e-4"
+         stroke="#000000"
+         stroke-width="1.66667"
+         stroke-linejoin="round"
+         stroke-miterlimit="10"
+         fill="none"
+         fill-rule="evenodd"
+         transform="matrix(-1,0,0,1,1078.15,544)"
+         id="path23" />
+      <text
+         fill="#44546a"
+         font-family="Calibri, Calibri_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="20px"
+         transform="translate(1106.57,542)"
+         id="text23">Mathematics</text>
+      <path
+         d="M 0,0 38.148,1.31234e-4"
+         stroke="#000000"
+         stroke-width="1.66667"
+         stroke-linejoin="round"
+         stroke-miterlimit="10"
+         fill="none"
+         fill-rule="evenodd"
+         transform="matrix(-1,0,0,1,1082.15,618)"
+         id="path24" />
+      <text
+         fill="#44546a"
+         font-family="Calibri, Calibri_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="20px"
+         transform="translate(1112.9,615)"
+         id="text24">Designing Methods</text>
+      <path
+         d="m 1015,693 h 79.35"
+         stroke="#000000"
+         stroke-width="1.66667"
+         stroke-linejoin="round"
+         stroke-miterlimit="10"
+         fill="none"
+         fill-rule="evenodd"
+         id="path25" />
+      <text
+         fill="#44546a"
+         font-family="Calibri, Calibri_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="20px"
+         transform="translate(1128.33,689)"
+         id="text25">Tuning &amp; Fitting the Model</text>
+      <path
+         d="M 796,723 V 823.806"
+         stroke="#000000"
+         stroke-width="1.66667"
+         stroke-linejoin="round"
+         stroke-miterlimit="10"
+         fill="none"
+         fill-rule="evenodd"
+         id="path26" />
+      <text
+         fill="#44546a"
+         font-family="Calibri, Calibri_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="20px"
+         transform="translate(655.923,850)"
+         id="text26">Classification and Regression Models</text>
+      <path
+         d="M 0,0 210.647,1.31234e-4"
+         stroke="#000000"
+         stroke-width="1.66667"
+         stroke-linejoin="round"
+         stroke-miterlimit="10"
+         fill="none"
+         fill-rule="evenodd"
+         transform="matrix(-1,0,0,1,1006.65,797)"
+         id="path27" />
+      <text
+         fill="#44546a"
+         font-family="Calibri, Calibri_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="20px"
+         transform="translate(1047.35,794)"
+         id="text27">Python, R and other languages<tspan
+   font-size="20px"
+   x="66.491096"
+   y="-310"
+   id="tspan27">Statistical Knowledge</tspan></text>
+      <path
+         d="M 0,0 76.2962,1.31234e-4"
+         stroke="#000000"
+         stroke-width="1.66667"
+         stroke-linejoin="round"
+         stroke-miterlimit="10"
+         fill="none"
+         fill-rule="evenodd"
+         transform="matrix(-1,0,0,1,552.296,540)"
+         id="path28" />
+      <path
+         d="M 0,0 73.2444,1.31234e-4"
+         stroke="#000000"
+         stroke-width="1.66667"
+         stroke-linejoin="round"
+         stroke-miterlimit="10"
+         fill="none"
+         fill-rule="evenodd"
+         transform="matrix(-1,0,0,1,543.244,597)"
+         id="path29" />
+      <path
+         d="m 915,314 h 54.933"
+         stroke="#000000"
+         stroke-width="1.66667"
+         stroke-linejoin="round"
+         stroke-miterlimit="10"
+         fill="none"
+         fill-rule="evenodd"
+         id="path30" />
+      <path
+         d="m 1009,484 h 70.19"
+         stroke="#000000"
+         stroke-width="1.66667"
+         stroke-linejoin="round"
+         stroke-miterlimit="10"
+         fill="none"
+         fill-rule="evenodd"
+         id="path31" />
+    </g>
+  </g>
+</svg>

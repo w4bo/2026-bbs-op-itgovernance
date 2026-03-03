@@ -61,23 +61,23 @@ Processing
 
 # Why is Data and Data Science Important?
 
-Data has become the   __fuel__   of industries as companies require data to function, grow and improve their businesses
+Data has become the __fuel__ of industries as companies require data to function, grow and improve their businesses
 
-Analysing a large amount of data to derive   __meaningful__     __insights__, with the help of Data Scientists assist companies in making valuable (and rationalized) decisions
+Analysing a large amount of data to derive __meaningful insights__, with the help of Data Scientists assist companies in making valuable (and rationalized) decisions
 
-__Real__   world   __problems__   can be   __solved__   with Data Science
+__Real__ world __problems__ can be __solved__ with Data Science
 
-The number of   __roles__   for Data Scientists has   __grown__   by   __650__  % since 2012.
+The number of __roles__ for Data Scientists has __grown__ by __650__  % since 2012.
 
-About   __11.5 Million jobs__     __will__   be   __created by 2026 __  according to the U.S. Bureau of Labor Statistics.
+About __11.5 Million jobs will__ be __created by 2026 __ according to the U.S. Bureau of Labor Statistics.
 
-Data Science has   __applications__   in   __several__   fields
+Data Science has __applications__ in __several__ fields
 
-Data Science is a very robust field that best fits people who enjoy   __experimentation__   and   __problem-solving__
+Data Science is a very robust field that best fits people who enjoy __experimentation__ and __problem-solving__
 
 # What is Data Science?
 
-"Data Science is about extraction, preparation, analysis, visualization, and maintenance  of information. It is a cross-disciplinary  field which uses scientific  methods  and processes to draw insights  from data."
+"Data Science is about extraction, preparation, analysis, visualization, and maintenance of information. It is a cross-disciplinary field which uses scientific methods and processes to draw insights from data."
 
 ![Data Science](img/ds-01.svg)
 
@@ -387,7 +387,7 @@ The **multidimensional model** is the key for representing and querying informat
 
 **Online analytical processing (OLAP)** to answer multi-dimensional analytical queries.
 
-- Interactive sessions of analysis reading large amounts of data. 
+- Interactive sessions of analysis reading large amounts of data.
 
 # From databases to data platforms
 
@@ -579,7 +579,7 @@ Are we done? No!
 - It includes the actions people must take, the processes they must follow, and the technology that supports them throughout the data life cycle
 - Every organization needs data governance since industries proceed on their digital-transformation journeys
 
-A *data steward* is a role that ensures that data governance processes are followed and that guidelines are enforced, and recommends improvements to data governance processes. 
+A *data steward* is a role that ensures that data governance processes are followed and that guidelines are enforced, and recommends improvements to data governance processes.
 
 :::
 :::{.column width=40%}
@@ -690,11 +690,11 @@ Processing
 
 # What is Data Management? - (1/2)
 
-Having data and using it means it    _needs_    to be    _managed_. 
+Having data and using it means it _needs_ to be _managed_.
 
-The    _Data Management Body of Knowledge _   (DMBOK) model defines    _how_    to    _manage_       _data_    in a professional organisation. 
+The _Data Management Body of Knowledge _   (DMBOK) model defines _how_ to _manage data_ in a professional organisation.
 
-DAMA-DMBOK represents data management in the form of    _11_       _Knowledge_       _Areas_, represented on the famous DAMA Wheel.   At the    _heart_    of data management is    __Data Governance__.
+DAMA-DMBOK represents data management in the form of _11 Knowledge Areas_, represented on the famous DAMA Wheel. At the _heart_ of data management is __Data Governance__.
 
 ![Source: "DAMA-DMBOK: Data Management Body of Knowledge"](img/orig_62.png)
 
@@ -704,83 +704,83 @@ DAMA-DMBOK represents data management in the form of    _11_       _Knowledge_  
 
 _Data governance is a system for defining _
 
- _who_   _ within an organization has _  _authority_  _ and _  _control_  _ over data assets _
+ _who within an organization has authority and control over data assets _
 
- _how_   _ those data assets may be _  _used_  _. _
+ _how those data assets may be used. _
 
-_It encompasses the _   _people_   _, _   _processes_   _, and _   _technologies_   _ _   _required_   _ to _   _manage_   _ and _   _protect_   _ data assets_  _._
+_It encompasses the people, processes, and technologies required to manage and protect data assets._
 
 # Goals of Data Governance
 
-Define, approve and communicate    __data strategies__, policies, standards, architecture and metrics (KPIs)  ​
+Define, approve and communicate __data strategies__, policies, standards, architecture and metrics (KPIs)  ​
 
-Follow and enforce    __compliance__    with law, policies, standards, architecture and procedures
+Follow and enforce __compliance__ with law, policies, standards, architecture and procedures
 
-Sponsor, follow and control    __delivery__    of data management    __projects__    and    __services__   ​
+Sponsor, follow and control __delivery__ of data management __projects__ and __services__   ​
 
- __Manage__    and    __solve__    data related    __issues__ 
+ __Manage__ and __solve__ data related __issues__
 
-Understand and advocate    __importance__    and    __value__    of    __data__    sets
+Understand and advocate __importance__ and __value__ of __data__ sets
 
 ![](img/orig_65.png)
 
 # Topics Closely Related to Data Governance
 
-Four examples of    _topics_       _closely_       _related_    to    _data_       _governance_    are:
+Four examples of _topics closely related_ to _data governance_ are:
 
-*  _Data stewardship _   - a    __functional role__    in data management and governance, with responsibility for    __ensuring__    that data    __policies__    and    __standards__       __turn__    into    __practice__    within the steward's domain
+* _Data stewardship _   - a __functional role__ in data management and governance, with responsibility for __ensuring__ that data __policies__ and __standards turn__ into __practice__ within the steward's domain
 
-*  _Data quality _   - a    __measure__    of the    __condition__    of data based on factors such as    _accuracy_,    _completeness_,    _consistency_,    _reliability_    and whether it's up to date
+* _Data quality _   - a __measure__ of the __condition__ of data based on factors such as _accuracy_, _completeness_, _consistency_, _reliability_ and whether it's up to date
 
-*  _Master data management _   - a    __discipline__    in which    __business__    and    __IT__       __work__       __together__    to ensure the uniformity, accuracy, stewardship, semantic consistency and accountability of the enterprise's official shared master data assets
+* _Master data management _   - a __discipline__ in which __business__ and __IT work together__ to ensure the uniformity, accuracy, stewardship, semantic consistency and accountability of the enterprise's official shared master data assets
 
-*  _GDPR_    - the    __biggest__       __data__       __privacy__       __use__       __case__    in Data Governance of recent years
+* _GDPR_    - the __biggest data privacy use case__ in Data Governance of recent years
 
 ![](img/orig_66.png)
 
 # GDPR - what is?
 
- _What is GDPR? _ 
+ _What is GDPR? _
 
- _"_    _Regulation on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation)_    _"_ 
+ _" Regulation on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation) "_
 
-The General Data Protection Regulation is the    __toughest__       __privacy__    and    __security__       __law__    in the    __world__       __replacing__      national data protection laws of    __all__       __EU__       __member__       __states__.
+The General Data Protection Regulation is the __toughest privacy__ and __security law__ in the __world replacing__ national data protection laws of __all EU member states__.
 
-Though it was drafted and passed by the European Union (EU), it   also has    __international __   reach -    __applying __   to    __any organization __   that    __processes __   data of    __EU __   data subjects. 
+Though it was drafted and passed by the European Union (EU), it also has __international __ reach - __applying __ to __any organization __ that __processes __ data of __EU __ data subjects.
 
-The regulation was    __put __   into    __effect __   on    __May 25, 2018__.   Fines for non-compliance will increase substantially up to a maximum fine of   € 20 million or 4% of global annual sales, whichever is higher
+The regulation was __put __ into __effect __ on __May 25, 2018__. Fines for non-compliance will increase substantially up to a maximum fine of   € 20 million or 4% of global annual sales, whichever is higher
 
 ![](img/orig_67.jpg)
 
 # GDPR - why?
 
- _Why GDPR?_ 
+ _Why GDPR?_
 
-No    _single_    set of rules in EU
+No _single_ set of rules in EU
 
-Uncontrolled    _collection_    and    _storage_    of personal data
+Uncontrolled _collection_ and _storage_ of personal data
 
-Inability to    _withdraw_    from direct marketing
+Inability to _withdraw_ from direct marketing
 
-No    _control_    over provided consent
+No _control_ over provided consent
 
- _Lack_    of procedures for data    _accuracy_ 
+ _Lack_ of procedures for data _accuracy_
 
- _GDPR has fundamentally changed the way companies must manage personal data_ 
+ _GDPR has fundamentally changed the way companies must manage personal data_
 
-GDPR IS ABOUT GIVING    _CONTROL_    OVER    _PERSONAL_    DATA BACK TO    _PEOPLE_ 
+GDPR IS ABOUT GIVING _CONTROL_ OVER _PERSONAL_ DATA BACK TO _PEOPLE_
 
 # GDPR - personal data
 
 _Personal data_
 
- __Article 4(1)__     - "Any information relating to an   __identified__   or   __identifiable__   natural person ("data subject"); an   __identifiable person__     is one who can be identified, directly or indirectly, in particular   __by reference to an identifier__     such as a  _name_, an  _identification_  number,  _location_  data, online identifier or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that person."
+ __Article 4(1)__     - "Any information relating to an __identified__ or __identifiable__ natural person ("data subject"); an __identifiable person__ is one who can be identified, directly or indirectly, in particular __by reference to an identifier__ such as a _name_, an _identification_ number, _location_ data, online identifier or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that person."
 
  # GDPR - sensitive data
 
 _SENSITIVE Personal data_
 
- __Article 9(1)__   __ - __ "Sensitive Personal Data" are personal data, revealing   __racial__   or   __ethnic__   origin,   __political__     __opinions__,   __religious__   or   __philosophical__   beliefs, trade-union membership;   __DATA CONCERNING HEALTH __  (Art.4(15)) or sex life and sexual orientation;   __GENETIC__   __ __   __DATA __  (Art.4(13)) or   __BIOMETRIC DATA__   __ __ (Art.4(14)). Data relating to criminal offences and convictions are addressed separately (as criminal law lies outside the EU's legislative competence).
+ __Article 9(1)  - __ "Sensitive Personal Data" are personal data, revealing __racial__ or __ethnic__ origin, __political opinions__, __religious__ or __philosophical__ beliefs, trade-union membership; __DATA CONCERNING HEALTH __  (Art.4(15)) or sex life and sexual orientation; __GENETIC DATA __  (Art.4(13)) or __BIOMETRIC DATA __ (Art.4(14)). Data relating to criminal offences and convictions are addressed separately (as criminal law lies outside the EU's legislative competence).
 
  __Examples:__
 
@@ -813,29 +813,29 @@ Processing
 
 # What is Data Visualization?
 
-In the world of Big Data, data   __visualization__   tools and technologies are   __essential__   to   __analyze__     __massive__     __amounts__   of information and make   __data-driven decisions__.  
+In the world of Big Data, data __visualization__ tools and technologies are __essential__ to __analyze massive amounts__ of information and make __data-driven decisions__. 
 
-Data visualization helps to tell stories by curating data into a form easier to understand, highlighting the   __trends__     and   __outliers__.
+Data visualization helps to tell stories by curating data into a form easier to understand, highlighting the __trends__ and __outliers__.
 
-Data visualization can also   __unlock the ability __  of   __less__     __technical__   users to explore and interact with data
+Data visualization can also __unlock the ability __ of __less technical__ users to explore and interact with data
 
- _A good visualization _    _tells a story_    _, _    _removing_    _ the _    _noise_    _ from data and _    _highlighting_    _ the _    _useful_    _ information._ 
+ _A good visualization tells a story, removing the noise from data and highlighting the useful information._
 
 ![](img/orig_86.jpg)
 
 # The Power of Visuals (1/4)
 
- _A _   _picture_   _ tells more than a thousand words. A _   _chart_   _ tells more than a million data points_ 
+ _A picture tells more than a thousand words. A chart tells more than a million data points_
 
 __Human Vision__
 
-Humans are visual by    __Nature__ 
+Humans are visual by __Nature__
 
- __90__    percent of information transmitted to the brain is    __visual__ 
+ __90__ percent of information transmitted to the brain is __visual__
 
- __65__    percent of the population are visual learners,    __graphics__    are    __key__    to    __engaging__    employees
+ __65__ percent of the population are visual learners, __graphics__ are __key__ to __engaging__ employees
 
-The human brain processes    __Visual__      data    _60.000 times_    better than    __Textual__      data
+The human brain processes __Visual__ data _60.000 times_ better than __Textual__ data
 
 ![](img/orig_87.png)
 
@@ -866,7 +866,7 @@ Link: https://heap.io/blog/data-stories/how-to-lie-with-data-visualization 
 
 ![](img/orig_92.jpg)
 
-__Visual Deception - __  an   __upside down Y-axes __ with descending (instead of ascending) values to the top might for a moment give the   _wrong_   impression that the ‘Stand your ground law' was   _positive_   in relation to gun deaths
+__Visual Deception - __ an __upside down Y-axes __ with descending (instead of ascending) values to the top might for a moment give the _wrong_ impression that the ‘Stand your ground law' was _positive_ in relation to gun deaths
 
 ![](img/orig_93.jpg)
 
@@ -882,17 +882,17 @@ Link: https://heap.io/blog/data-stories/how-to-lie-with-data-visualization 
 
 # Information Visualization Do's
 
-Align with the    _data_       _savviness_    of end user
+Align with the _data savviness_ of end user
 
-Choose the    _right_    chart    _type_    with respect to your data
+Choose the _right_ chart _type_ with respect to your data
 
- _Describe_    keywords, KPI's, terms, metrics
+ _Describe_ keywords, KPI's, terms, metrics
 
-Design a    _simple_    and    _understandable_    data model
+Design a _simple_ and _understandable_ data model
 
- _Pre-filter_    a dashboard to information that is    _relevant_    for the user
+ _Pre-filter_ a dashboard to information that is _relevant_ for the user
 
-Make charts with the    _Data-Ink ratio _   in mind
+Make charts with the _Data-Ink ratio _ in mind
 
 ![](img/orig_94.jpg)
 
@@ -900,7 +900,7 @@ Make charts with the    _Data-Ink ratio _   in mind
 
 # Information Visualization Don'ts
 
-Don't use Pie Charts (   __google: __    _save the pies for dessert_   )
+Don't use Pie Charts ( __google: _ save the pies for dessert_   )
 
 Don't overload the (Dashboard) user with information
 
@@ -941,27 +941,27 @@ Processing
 
 ![](img/orig_102.jpg)
 
-The word   __statistics__   was coined by   __Gottfried__     __Achenwall__   (1719-1772) and was derived from the Latin   __state__   since  _historically_  it was  _used_  by  _governments_  while gathering  _demographic_   _information_  like  _census_  or  _tax_   _collecting_.
+The word __statistics__ was coined by __Gottfried Achenwall__   (1719-1772) and was derived from the Latin __state__ since _historically_ it was _used_ by _governments_ while gathering _demographic information_ like _census_ or _tax collecting_.
 
-__Gottfried __  __Achenwall__  __ __
+__Gottfried Achenwall __
 
- __Statistics__    __, __   that is " the science of collecting and analysing statistics" is defined by the Oxford dictionary as  _"a discipline that concerns the collection, organization, analysis, interpretation, and presentation of data."_
+ __Statistics, __ that is " the science of collecting and analysing statistics" is defined by the Oxford dictionary as _"a discipline that concerns the collection, organization, analysis, interpretation, and presentation of data."_
 
-However, this term is also used as a  _synonym_  for   __data__, for  _example_,  _statistics of a basketball game_  (how may points were scored by each player,...)
+However, this term is also used as a _synonym_ for __data__, for _example_, _statistics of a basketball game_  (how may points were scored by each player,...)
 
 ![](img/orig_103.png)
 
 # Populations and Samples
 
- __The primary __    _objective_    __ of a statistical analysis is to infer __    _characteristics_    __ of a __    _group_    __ of data by __    __analyzing__    __ the __    _characteristics_    __ of a __    _small_    __ __    _sampling_    __ of the group.__ 
+ __The primary _ objective _ of a statistical analysis is to infer _ characteristics _ of a _ group _ of data by analyzing the _ characteristics _ of a _ small_ _sampling _ of the group.__
 
- _Population_  : In statistics, a  __population__  (also called a universe) is a  _set_  of similar  _items_  or  _events_  which is of  _interest_  for some question or experiment.
+ _Population_  : In statistics, a __population__  (also called a universe) is a _set_ of similar _items_ or _events_ which is of _interest_ for some question or experiment.
 
-For  _small_  populations, we can obtain  _all_  values. However, populations are normally so large that obtaining all the measurements is unfeasible.
+For _small_ populations, we can obtain _all_ values. However, populations are normally so large that obtaining all the measurements is unfeasible.
 
- __Sample __  is a set of individuals or objects  _collected_  or  _selected_  from a statistical population by a  _defined_   _procedure_.
+ __Sample __ is a set of individuals or objects _collected_ or _selected_ from a statistical population by a _defined procedure_.
 
-To sample a population  _randomly_  requires that  _each_   _member_  of the population has an  _equal_  and independent  _chance_  of being  _selected_.
+To sample a population _randomly_ requires that _each member_ of the population has an _equal_ and independent _chance_ of being _selected_.
 
 ![](img/orig_104.jpg)
 
@@ -969,23 +969,23 @@ To sample a population  _randomly_  requires that  _each_   _member_  of the pop
 
 # Difference Between Probability and Statistics
 
-Probability  starts with a model describing what    _events_    we think are going to    _occur_, with what    _likelihoods_. 
+Probability starts with a model describing what _events_ we think are going to _occur_, with what _likelihoods_.
 
-For    _example_, flipping a fair coin, the probability of heads on a given flip is 50%, and the probability of tails on a given flip is 50%. Probability is about    _prediction_, thus, looking  forward.
+For _example_, flipping a fair coin, the probability of heads on a given flip is 50%, and the probability of tails on a given flip is 50%. Probability is about _prediction_, thus, looking forward.
 
-Statistics  is the    _opposite_, given only the    _data_, try to    _guess_    what the    _rules_    are. Statistics is about looking  backward.
+Statistics is the _opposite_, given only the _data_, try to _guess_ what the _rules_ are. Statistics is about looking backward.
 
 ![](img/orig_106.jpg)
 
 # Probability Theory
 
- _Probability_   theory is the branch of mathematics  _concerned_  with probability, which measures  _how_   _likely_  an  _event_  is to  _occur_.
+ _Probability_ theory is the branch of mathematics _concerned_ with probability, which measures _how likely_ an _event_ is to _occur_.
 
-It was triggered by the desire to  _predict_   _outcomes_  in the  _games_  of chance popular among the French nobility of the mid-seventeenth century such  _cards_  and  _dices_.
+It was triggered by the desire to _predict outcomes_ in the _games_ of chance popular among the French nobility of the mid-seventeenth century such _cards_ and _dices_.
 
-Earlier work was done by writers such as  __Girolamo__  __ Cardano __ (1501-1576) and  __Galileo Galilei__  (1564-1642)
+Earlier work was done by writers such as __Girolamo Cardano __ (1501-1576) and __Galileo Galilei__  (1564-1642)
 
-It was developed between two great French mathematicians,   __Blaise Pascal __  (1623-1662) and   __Pierre Fermat __  (1601-1665).
+It was developed between two great French mathematicians, __Blaise Pascal __  (1623-1662) and __Pierre Fermat __  (1601-1665).
 
 ![](img/orig_107.png)
 
@@ -995,17 +995,17 @@ It was developed between two great French mathematicians,   __Blaise Pascal __  
 
 # Basic Concepts in Probability (1/5)
 
- __Random experiment __  is an action for which  _all possible outcomes_  can be listed, but for which the  _actual_  outcome on any given trial of the experiment  _cannot_  be  _predicted_  with  _certainty_.
+ __Random experiment __ is an action for which _all possible outcomes_ can be listed, but for which the _actual_ outcome on any given trial of the experiment _cannot_ be _predicted_ with _certainty_.
 
 * For example, a coin has two sides and when tossed will land with either the "head" side (H) up or the "tail" side (T) up, but not both. Or, a die has six sides and when thrown will land with either the 1, 2, 3, 4, 5, or 6 side up.
 
- __Sample space __  associated with a random experiment is  _the set of all possible outcomes _ (H or T with the  _coin_; or 1, 2, 3, 4, 5, or 6 with the  _die_ ).
+ __Sample space __ associated with a random experiment is _the set of all possible outcomes _ (H or T with the _coin_; or 1, 2, 3, 4, 5, or 6 with the _die_ ).
 
- __Probability of an__       __outcome __  is a number p between 0 and 1 that measures the likelihood that this outcome will occur on a single trial. The value  _p = 0_  corresponds to the outcome e being  _impossible_  and the value  _p = 1_  corresponds to the outcome e being  _certain_.
+ __Probability of an outcome __ is a number p between 0 and 1 that measures the likelihood that this outcome will occur on a single trial. The value _p = 0_ corresponds to the outcome e being _impossible_ and the value _p = 1_ corresponds to the outcome e being _certain_.
 
- __Set __  is a defined  _collection of items_. For example, the number rolled is odd {1,3,5} or even {2,4,6}.
+ __Set __ is a defined _collection of items_. For example, the number rolled is odd {1,3,5} or even {2,4,6}.
 
- __Event__, a set of outcomes is an   __event__   __. __ The   __probability of an event __  is the sum of the probabilities of the individual outcomes of which it is composed. It is denoted P(A).
+ __Event__, a set of outcomes is an __event. __ The __probability of an event __ is the sum of the probabilities of the individual outcomes of which it is composed. It is denoted P(A).
 
 ![](img/orig_110.jpg)
 
@@ -1013,11 +1013,11 @@ It was developed between two great French mathematicians,   __Blaise Pascal __  
 
 # Basic Concepts in Probability (2/5)
 
- _The intersection of events_   __ __ A and B, denoted A ∩ B,  _is the collection of all outcomes that are elements of both of the sets A and B_. It corresponds to combining descriptions of the two events using the word "and."
+ _The intersection of events_ A and B, denoted A ∩ B, _is the collection of all outcomes that are elements of both of the sets A and B_. It corresponds to combining descriptions of the two events using the word "and."
 
-If two events have  _no elements in common_, they are said to be  _mutually exclusive_, and the two sets are said to be   __disjoint__.  The set that is the intersection of disjoint sets contains no elements and is often called the   __empty__   __ __   __set__   __ __ or the null set.
+If two events have _no elements in common_, they are said to be _mutually exclusive_, and the two sets are said to be __disjoint__. The set that is the intersection of disjoint sets contains no elements and is often called the __empty set __ or the null set.
 
-_For example_, the events   __"odd-numbered rolls" __  and   __"even-numbered rolls" __  are mutually exclusive and there are  _no elements common to both of them_.
+_For example_, the events __"odd-numbered rolls" __ and __"even-numbered rolls" __ are mutually exclusive and there are _no elements common to both of them_.
 
 ![](img/orig_112.jpg)
 
@@ -1025,15 +1025,15 @@ _For example_, the events   __"odd-numbered rolls" __  and   __"even-numbered ro
 
 # Basic Concepts in Probability (3/5)
 
- _The union of events_    __ __  A and B, denoted A ∪ B,  _is the collection of all outcomes that are elements of one or the other of the sets A and B, or of _   _both_   _ of them._
+ _The union of events_ A and B, denoted A ∪ B, _is the collection of all outcomes that are elements of one or the other of the sets A and B, or of both of them._
 
 It corresponds to combining descriptions of the two events using the word "or.".
 
-_For example_, The union of the events   __"odd numbered" __  and   __"rolls greater or equal than 2"__ 
+_For example_, The union of the events __"odd numbered" __ and __"rolls greater or equal than 2"__
 
 ![](img/orig_114.jpg)
 
-_1  2  3  4  5  6_
+_1 2 3 4 5 6_
 
 ![](img/orig_115.jpg)
 
@@ -1041,13 +1041,13 @@ _1  2  3  4  5  6_
 
 __Multiplying probabilities__
 
-* If two or more events   __intersect__, the probability associated with the intersection is the   __product__   of the probabilities of the   __individual__   events. That is,
+* If two or more events __intersect__, the probability associated with the intersection is the __product__ of the probabilities of the __individual__ events. That is,
 
 ![](img/orig_116.png)
 
 ![](img/orig_117.jpg)
 
-* _Example_, the probability of a tossed coin  _landing_   _heads_  is 0.5. If  _two_   _coins_  are tossed, the   __probability of __    _both_    __ coins landing heads is:__ 
+* _Example_, the probability of a tossed coin _landing heads_ is 0.5. If _two coins_ are tossed, the __probability of _ both _ coins landing heads is:__
 
 * P(H,H) = [P(H)][P(H)] = 0.5 \* 0.5 = 0.25
 
@@ -1057,7 +1057,7 @@ __Multiplying probabilities__
 
 __Conditional probabilities__
 
-*  __Conditional__   probability is the probability of one event with the   __stipulation__   that   _another event also occurs._ 
+* __Conditional__ probability is the probability of one event with the __stipulation__ that _another event also occurs._
 
 ![](img/orig_119.png)
 
@@ -1185,13 +1185,13 @@ Machine Learning
 
 # Classification: Model-Based Methods
 
-Training: learn a model to generalize from training data 
+Training: learn a model to generalize from training data
 
 ```{mermaid}
 %%| echo: false
 flowchart LR
-    A[(Training Data)] --> B[Training / Model Learning]
-    B --> C[(Trained Model)]
+ A[(Training Data)] --> B[Training / Model Learning]
+ B --> C[(Trained Model)]
 ```
 
 # Classification: Model-Based Methods
@@ -1200,7 +1200,7 @@ flowchart LR
 
 # Classification: Model-Based Methods
 
-Testing: verify the generalization of the model on unseen data 
+Testing: verify the generalization of the model on unseen data
 
 - Use the trained model to make predictions on new data
 - Compare predictions to ground truth for performance evaluation
@@ -1208,11 +1208,11 @@ Testing: verify the generalization of the model on unseen data
 ```{mermaid}
 %%| echo: false
 flowchart LR
-    A[(Test Data)] --> B[Trained Model]
-    B --> C[(Predicted Class)]
-    C --> D[Evaluation]
-    E[(Real Class / Ground Truth)] --> D
-    D --> F(Performance Metric)
+ A[(Test Data)] --> B[Trained Model]
+ B --> C[(Predicted Class)]
+ C --> D[Evaluation]
+ E[(Real Class / Ground Truth)] --> D
+ D --> F(Performance Metric)
 ```
 
 # Classification: Model-Based Methods
@@ -1221,7 +1221,7 @@ flowchart LR
 
 # Classification: Instance-Based Methods
 
-Instance-based methods: store training examples and compare new inputs to known cases 
+Instance-based methods: store training examples and compare new inputs to known cases
 
 * No explicit training phase
 * Rely on similarity or distance measures
@@ -1230,12 +1230,12 @@ Instance-based methods: store training examples and compare new inputs to known 
 ```{mermaid}
 %%| echo: false
 flowchart LR
-    A[(Test Data)] --> B[Compare]
-    C[(Training Data)] --> B
-    B --> D[(Predicted Class)]
-    D --> E[Evaluation]
-    F[(Real Class / Ground Truth)] --> E
-    E --> G(Performance Metric)
+ A[(Test Data)] --> B[Compare]
+ C[(Training Data)] --> B
+ B --> D[(Predicted Class)]
+ D --> E[Evaluation]
+ F[(Real Class / Ground Truth)] --> E
+ E --> G(Performance Metric)
 ```
 
 # Classification: Instance-Based Methods
@@ -1244,29 +1244,27 @@ flowchart LR
 
 # Reinforcement Learning
 
-__Reinforcement machine learning algorithms __   interact with their environment by producing actions and discovering errors or rewards. 
+_Reinforcement machine learning algorithms_ interact with their environment by producing actions and discovering errors or rewards.
 
-__Trial and error search __   and    __delayed reward __   are the most relevant characteristics of reinforcement learning. 
+- _Trial and error search _ and _delayed reward _ are the most relevant characteristics of reinforcement learning.
 
-Allows machines and software agents to    _automatically_       _determine_    the    _ideal_       _behavior_    within a specific context in order to maximize its performance.
+- Allows machines and software agents to _automatically determine_ the _ideal behavior_ within a specific context in order to maximize its performance.
 
-Simple    _reward_       _feedback_    is required for the agent to learn which action is best - a    __reinforcement signal__.
+Simple _reward feedback_ is required for the agent to learn which action is best - a _reinforcement signal_.
 
-![](img/orig_140.png)
-
-![](img/orig_141.jpg)
+![Reinforcement signal](img/orig_140.png)
 
 # Reinforcement Learning | Example
 
-Using reinforcement learning, AlphaGo Zero was able to  _learn_  the game of Go from  _scratch_.
+Using reinforcement learning, AlphaGo Zero was able to _learn_ the game of Go from _scratch_.
 
-It  _learned_  by  _playing_   _against_   _itself_.
+It _learned_ by _playing against itself_.
 
-Alpha Go Zero was able to  _outperform_  the version of Alpha Go known as Master that has  _defeated_  world number one   __Ke__    __ __    __Jie__.
+Alpha Go Zero was able to _outperform_ the version of Alpha Go known as Master that has _defeated_ world number one _Ke Jie_.
 
 It only used black and white stones from the board as input features.
 
-The agent is composed by a  _neural_   _network_.
+The agent is composed by a _neural network_.
 
 AlphaGo Zero played against itself millions of times, and with time and its own creativity, it had managed to find these techniques used by the masters of Go.
 
@@ -1278,9 +1276,9 @@ AlphaGo Zero played against itself millions of times, and with time and its own 
 
 # What is Artificial Intelligence?
 
-AI is concerned with getting    __computers__    to    __do tasks__    that would    __normally__    require    __human intelligence__.  ​
+AI is concerned with getting _computers_ to _do tasks_ that would _normally_ require _human intelligence_.  ​
 
-AI refers to a broad field of science encompassing    _not_       _only_    computer science but    _also_       __psychology__,    __philosophy__,    __linguistics__    and other areas.  ​
+AI refers to a broad field of science encompassing _not only_ computer science but _also psychology_, _philosophy_, _linguistics_ and other areas.  ​
 
 __Applications:__   ​
 
@@ -1303,23 +1301,23 @@ _(Alan Turing)_
 
 # AI: definition and types
 
- _Intelligence demonstrated by machines_ 
+ _Intelligence demonstrated by machines_
 
- _According to the Computer Science view:_ 
+ _According to the Computer Science view:_
 
- __" Intelligent agents"__    perceiving their environment and taking    __actions__    to achieve a    __goal__.
+ __" Intelligent agents"__ perceiving their environment and taking __actions__ to achieve a __goal__.
 
- _Narrow or Weak AI_    __ __   performs some    __traditional__       __goals__ 
+ _Narrow or Weak AI_ performs some __traditional goals__
 
 * Reasoning, planning, learning, natural language processing, image recognition ...
 
- _Artificial general intelligence (AGI)_, also    __called__       _Strong AI_   :
+ _Artificial general intelligence (AGI)_, also __called_ Strong AI_   :
 
 * Performs a full range of human abilities
 
 * Some predict it will be 2050 before we can achieve this
 
-*  _We are not sure if we will ever understand consciousness_ 
+* _We are not sure if we will ever understand consciousness_
 
 ![](img/orig_150.png)
 
@@ -1329,26 +1327,26 @@ _(Alan Turing)_
 
 Agent comes from the Latin "agere" - to do.
 
-In AI we assume   _agents_   are   _rational_   and are   _expected_   to achieve the   _best_   outcome or   _best_     _expected_   outcome if there is   _uncertainty_. They also act "  _autonomously_  "\!
+In AI we assume _agents_ are _rational_ and are _expected_ to achieve the _best_ outcome or _best expected_ outcome if there is _uncertainty_. They also act " _autonomously_  "!
 
 _There are other approaches based on human behaviour or human thought but this approach is the most amenable to scientific development._
 
 
 # Artificial intelligence and the rational agent - 2/2
 
-*  __Stuart Russell __   and    __Peter __    __Norvig__   's   book,    _Artificial Intelligence - A Modern Approach_, 3rd edition, defines a    __rational__       __agent__ 
+* __Stuart Russell __ and __Peter Norvig__   's book, _Artificial Intelligence - A Modern Approach_, 3rd edition, defines a __rational agent__
 
-*  _"For each possible percept sequence, a rational agent should _    _select_    _ an action that is _    _expected_    _ to _    _maximize_    _ its performance measure, given the _    _evidence_    _ _    _provided_    _ by the _    _percept_    _ sequence and _    _whatever_    _ built in _    _knowledge_    _ the agent has."_ 
+* _"For each possible percept sequence, a rational agent should select an action that is expected to maximize its performance measure, given the evidence provided by the percept sequence and whatever built in knowledge the agent has."_
 
-* We expect agents to be rational and this depends on    _four things_   :
+* We expect agents to be rational and this depends on _four things_   :
 
-* The performance    _measure_    that defines the criterion of    _success_ 
+* The performance _measure_ that defines the criterion of _success_
 
-* The agent's prior    _knowledge_    of the    _environment_ 
+* The agent's prior _knowledge_ of the _environment_
 
-* The    _actions_    that the agent    _can_    perform
+* The _actions_ that the agent _can_ perform
 
-* The agent's    _percept_       _sequence_    to date
+* The agent's _percept sequence_ to date
 
 ![](img/orig_152.png)
 
@@ -1370,7 +1368,7 @@ __Action__
 
 _to manipulate the environment_
 
-* _"Learn from experience, adapt, understand and handle abstract _  _concepts_  _, manipulate our environment"._
+* _"Learn from experience, adapt, understand and handle abstract concepts, manipulate our environment"._
 
 # Schematic of AI (the Computer Science view) - 2/2
 
@@ -1386,19 +1384,19 @@ _the collective term of all the agent's perceptual inputs at any given time _
 
 * Architecture
 
-* __Percept__  obtained from sensors
+* __Percept__ obtained from sensors
 
-* __Program__  delivers the agent functionality: mapping sensor precept to actuator actions
+* __Program__ delivers the agent functionality: mapping sensor precept to actuator actions
 
-* __Action__  undertaken by actuators
+* __Action__ undertaken by actuators
 
 __Action__
 
 _to manipulate the environment_
 
-* _"Learn from experience, adapt, understand and handle abstract _  _concepts_  _, manipulate our environment"._
+* _"Learn from experience, adapt, understand and handle abstract concepts, manipulate our environment"._
 
- _A program will run on a computing device, improving its performance through learning _ 
+ _A program will run on a computing device, improving its performance through learning _
 
 # Agent examples
 
@@ -1413,15 +1411,15 @@ _to manipulate the environment_
 
 # Types of agent - 1/2
 
-*  _Reflex agent _ 
+* _Reflex agent _
 
-* the program selects actions based on the current precept 
+* the program selects actions based on the current precept
 
-* simple to understand and program  
+* simple to understand and program 
 
- _e.g. central heating overheats, program selects the action to switch off the power_ 
+ _e.g. central heating overheats, program selects the action to switch off the power_
 
-*  _Model-based reflex agent_ 
+* _Model-based reflex agent_
 
 The agent has a model of the world
 
@@ -1429,9 +1427,9 @@ The agent has a model of the world
 
 * program now looks at the percept and updates its own internal world (state)
 
-* program can assess the possible actions and future states and uses reflex agent  approach to determine what actions to take 
+* program can assess the possible actions and future states and uses reflex agent approach to determine what actions to take
 
- _e.g. underwater vehicle loses visual sensors (silt - not enough light), continues using 3D mapped geometrical model _ 
+ _e.g. underwater vehicle loses visual sensors (silt - not enough light), continues using 3D mapped geometrical model _
 
 ![](img/orig_160.png)
 
@@ -1441,29 +1439,29 @@ The agent has a model of the world
 
 ![](img/orig_162.png)
 
-*  _Goal-based agent _ 
+* _Goal-based agent _
 
 * the program needs more than just sensors and an internal world to implement the agent's functionality - it needs a goal
 
-* these programs are more versatile and flexible - can adapt to changes  
+* these programs are more versatile and flexible - can adapt to changes 
 
- _e.g. autonomous vehicle can choose one of five exits from a motorway, the goal (safest,_    _quickest, most scenic, cheapest, shortest)  _ 
+ _e.g. autonomous vehicle can choose one of five exits from a motorway, the goal (safest, quickest, most scenic, cheapest, shortest) _
 
-*  _Utility-based reflex agent_ 
+* _Utility-based reflex agent_
 
 * Utility is the scientific way economists measure an agent's happiness; it's more versatile than a yes/no happy or unhappy - it measures how useful it is.
 
- _e.g. _    _Chatbot_    _ doctor assesses the efficacy of a treatment based on patient's needs _ 
+ _e.g. Chatbot doctor assesses the efficacy of a treatment based on patient's needs _
 
 ![](img/orig_163.png)
 
 # What was missing?
 
- _The learning from experience_ 
+ _The learning from experience_
 
-*  _Stuart Jonathan Russell_    (born 1962) is a British computer scientist known for his contributions to artificial intelligence. He is a professor of computer science at the University of California, Berkeley and was from 2008 to 2011 an adjunct professor of neurological surgery at the University of California, San Francisco
+* _Stuart Jonathan Russell_    (born 1962) is a British computer scientist known for his contributions to artificial intelligence. He is a professor of computer science at the University of California, Berkeley and was from 2008 to 2011 an adjunct professor of neurological surgery at the University of California, San Francisco
 
-*  _Peter _    _Norvig_    _ _   (born December 14, 1956) is an American computer scientist and Distinguished Education Fellow at the Stanford Institute for Human-Centered AI. He previously served as a director of research and search quality at Google
+* _Peter Norvig_ (born December 14, 1956) is an American computer scientist and Distinguished Education Fellow at the Stanford Institute for Human-Centered AI. He previously served as a director of research and search quality at Google
 
 ![](img/orig_164.png)
 
@@ -1471,13 +1469,11 @@ The agent has a model of the world
 
 ![](img/orig_165.png)
 
- __What the sensors say about the agent's performance__ 
+__What the sensors say about the agent's performance__
 
 __External Task Environment __
 
-![](img/orig_166.png)
-
- __Responsible for learning and improvement__ 
+__Responsible for learning and improvement__
 
 Learning element
 
