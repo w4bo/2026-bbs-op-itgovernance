@@ -897,6 +897,126 @@ Processing
 
 ![AI, Data Mining, and Machine Learning](./img/00-ml/data-mining-Venn-diagram.png)
 
+# What is Artificial Intelligence?
+
+AI is concerned with getting _computers_ to _do tasks_ that would _normally_ require _human intelligence_.  ​
+
+- AI refers to a broad field of science encompassing _not only_ computer science but _also psychology_, _philosophy_, _linguistics_ and other areas.  ​
+
+::::{.columns}
+:::{.column width=50%}
+__Applications:__   ​
+
+- Computer Vision  ​
+- Natural language processing (NLP)  ​
+- Robotics & Motion  ​
+- Planning and optimization  ​
+- Knowledge capture
+:::
+:::{.column width=50%}
+![AI Agent](img/orig_148.jpg)
+:::
+::::
+
+# Artificial Intelligence (AI)
+
+![Alan Turing](img/orig_149.jpg)
+
+> "AI is the science and engineering of making intelligent machines, especially intelligent computer programs."
+
+# AI: definition and types
+
+_According to the Computer Science view:_ __"Intelligent agents"__ perceiving their environment and taking __actions__ to achieve a __goal__.
+
+_Narrow or Weak AI_ performs some __traditional goals__
+
+* Reasoning, planning, learning, natural language processing, image recognition ...
+
+_Artificial general intelligence (AGI)_, also _called Strong AI_:
+
+* Performs a full range of human abilities
+* Some predict it will be 2050 before we can achieve this
+* _We are not sure if we will ever understand consciousness_
+
+# Artificial intelligence and the rational agent - 1/2
+
+![Agent](img/orig_151.png)
+
+Agent comes from the Latin "agere" - to do.
+
+- In AI we assume _agents_ are _rational_ and are _expected_ to achieve the _best_ outcome or _best expected_ outcome if there is _uncertainty_. They also act "_autonomously_"!
+- _There are other approaches based on human behaviour or human thought but this approach is the most amenable to scientific development._
+
+
+# Artificial intelligence and the rational agent - 2/2
+
+::::{.columns}
+:::{.column width=70%}
+__Stuart Russell and Peter Norvig__'s book, _Artificial Intelligence - A Modern Approach_ defines an __agent__
+
+> "For each possible percept sequence, a rational agent should select an action that is expected to maximize its performance measure, given the evidence provided by the percept sequence and whatever built in knowledge the agent has."
+
+* We expect agents to be rational and this depends on _four things_:
+* The performance _measure_ that defines the criterion of _success_
+* The agent's prior _knowledge_ of the _environment_
+* The _actions_ that the agent _can_ perform
+* The agent's _percept sequence_ to date
+:::
+:::{.column width=30%}
+![Stuart Russell and Peter Norvig](img/orig_152.png)
+:::
+::::
+
+# Schematic of AI (the Computer Science view) - 1/2
+
+::::{.columns}
+:::{.column width=30%}
+![External Task Environment](img/orig_155.png)
+:::
+:::{.column width=70%}
+* __Percept__: the collective term of all the agent's perceptual inputs at any given time (obtained from sensors)
+* __Program__ delivers the agent functionality: mapping sensor precept to actuator actions
+* __Action__ undertaken by actuators to manipulate the environment
+    * _"Learn from experience, adapt, understand and handle abstract concepts, manipulate our environment"._
+    * _A program will run on a computing device, improving its performance through learning _
+:::
+::::
+
+# Agent examples
+
+| Agent Description | Performance Measure | Environment | Actuators | Sensors |
+|:-: |:-: |:-: |:-: |:-: |
+| __Central heating thermostat__ | Temperature, heating cost | Building, inhabitants, heating system | Inhabitant display, boiler, power | Temperature, keypad, phone, computer |
+| __Interactive sales chatbot__ | Number of sales | Customers, sale environment (internet, store, phone) | Robot, display, speaker | Keyboard, microphone, camera, kinesthetic sensors |
+
+
+# Types of agents
+
+_Reflex agent_: the program selects actions based on the current precept
+
+* simple to understand and program 
+* _e.g. central heating overheats, program selects the action to switch off the power_
+
+_Model-based reflex agent_: the agent has a model of the world
+
+* can make up for a lack of sensor (virtual world that doesn't need sensor data)
+* program now looks at the percept and updates its own internal world (state)
+* program can assess the possible actions and future states and uses reflex agent approach to determine what actions to take
+* _e.g. underwater vehicle loses visual sensors (silt - not enough light), continues using 3D mapped geometrical model _
+
+# Types of agents
+
+_Goal-based agents_
+
+* the program needs more than just sensors and an internal world to implement the agent's functionality - it needs a goal
+* these programs are more versatile and flexible - can adapt to changes
+* _e.g. autonomous vehicle can choose one of five exits from a motorway, the goal (safest, quickest, most scenic, cheapest, shortest) _
+
+_Utility-based reflex agent_
+
+* Utility is the scientific way economists measure an agent's happiness; it's more versatile than a yes/no happy or unhappy - it measures how useful it is.
+* _e.g. Chatbot doctor assesses the efficacy of a treatment based on patient's needs_
+
 # Machine Learning
 
 Machine learning (ML) is a field of study in artificial intelligence
@@ -1059,7 +1179,7 @@ Simple _reward feedback_ is required for the agent to learn which action is best
 
 ![Reinforcement signal](img/orig_140.png)
 
-# Reinforcement Learning:   Example
+# Reinforcement Learning: Example
 
 Using reinforcement learning, AlphaGo Zero was able to _learn_ the game of Go from _scratch_.
 
@@ -1080,125 +1200,5 @@ Using reinforcement learning, AlphaGo Zero was able to _learn_ the game of Go fr
 ![](img/orig_146.jpg)
 :::
 ::::
-
-# What is Artificial Intelligence?
-
-AI is concerned with getting _computers_ to _do tasks_ that would _normally_ require _human intelligence_.  ​
-
-- AI refers to a broad field of science encompassing _not only_ computer science but _also psychology_, _philosophy_, _linguistics_ and other areas.  ​
-
-::::{.columns}
-:::{.column width=50%}
-__Applications:__   ​
-
-- Computer Vision  ​
-- Natural language processing (NLP)  ​
-- Robotics & Motion  ​
-- Planning and optimization  ​
-- Knowledge capture
-:::
-:::{.column width=50%}
-![AI Agent](img/orig_148.jpg)
-:::
-::::
-
-# Artificial Intelligence (AI)
-
-![Alan Turing](img/orig_149.jpg)
-
-> "AI is the science and engineering of making intelligent machines, especially intelligent computer programs."
-
-# AI: definition and types
-
-_According to the Computer Science view:_ __"Intelligent agents"__ perceiving their environment and taking __actions__ to achieve a __goal__.
-
-_Narrow or Weak AI_ performs some __traditional goals__
-
-* Reasoning, planning, learning, natural language processing, image recognition ...
-
-_Artificial general intelligence (AGI)_, also _called Strong AI_:
-
-* Performs a full range of human abilities
-* Some predict it will be 2050 before we can achieve this
-* _We are not sure if we will ever understand consciousness_
-
-# Artificial intelligence and the rational agent - 1/2
-
-![Agent](img/orig_151.png)
-
-Agent comes from the Latin "agere" - to do.
-
-- In AI we assume _agents_ are _rational_ and are _expected_ to achieve the _best_ outcome or _best expected_ outcome if there is _uncertainty_. They also act "_autonomously_"!
-- _There are other approaches based on human behaviour or human thought but this approach is the most amenable to scientific development._
-
-
-# Artificial intelligence and the rational agent - 2/2
-
-::::{.columns}
-:::{.column width=70%}
-__Stuart Russell and Peter Norvig__'s book, _Artificial Intelligence - A Modern Approach_ defines an __agent__
-
-> "For each possible percept sequence, a rational agent should select an action that is expected to maximize its performance measure, given the evidence provided by the percept sequence and whatever built in knowledge the agent has."
-
-* We expect agents to be rational and this depends on _four things_:
-* The performance _measure_ that defines the criterion of _success_
-* The agent's prior _knowledge_ of the _environment_
-* The _actions_ that the agent _can_ perform
-* The agent's _percept sequence_ to date
-:::
-:::{.column width=30%}
-![Stuart Russell and Peter Norvig](img/orig_152.png)
-:::
-::::
-
-# Schematic of AI (the Computer Science view) - 1/2
-
-::::{.columns}
-:::{.column width=30%}
-![External Task Environment](img/orig_155.png)
-:::
-:::{.column width=70%}
-* __Percept__: the collective term of all the agent's perceptual inputs at any given time (obtained from sensors)
-* __Program__ delivers the agent functionality: mapping sensor precept to actuator actions
-* __Action__ undertaken by actuators to manipulate the environment
-    * _"Learn from experience, adapt, understand and handle abstract concepts, manipulate our environment"._
-    * _A program will run on a computing device, improving its performance through learning _
-:::
-::::
-
-# Agent examples
-
-| Agent Description | Performance Measure | Environment | Actuators | Sensors |
-|:-: |:-: |:-: |:-: |:-: |
-| __Central heating thermostat__ | Temperature, heating cost | Building, inhabitants, heating system | Inhabitant display, boiler, power | Temperature, keypad, phone, computer |
-| __Interactive sales chatbot__ | Number of sales | Customers, sale environment (internet, store, phone) | Robot, display, speaker | Keyboard, microphone, camera, kinesthetic sensors |
-
-
-# Types of agents
-
-_Reflex agent_: the program selects actions based on the current precept
-
-* simple to understand and program 
-* _e.g. central heating overheats, program selects the action to switch off the power_
-
-_Model-based reflex agent_: the agent has a model of the world
-
-* can make up for a lack of sensor (virtual world that doesn't need sensor data)
-* program now looks at the percept and updates its own internal world (state)
-* program can assess the possible actions and future states and uses reflex agent approach to determine what actions to take
-* _e.g. underwater vehicle loses visual sensors (silt - not enough light), continues using 3D mapped geometrical model _
-
-# Types of agents
-
-_Goal-based agents_
-
-* the program needs more than just sensors and an internal world to implement the agent's functionality - it needs a goal
-* these programs are more versatile and flexible - can adapt to changes 
-* _e.g. autonomous vehicle can choose one of five exits from a motorway, the goal (safest, quickest, most scenic, cheapest, shortest) _
-
-_Utility-based reflex agent_
-
-* Utility is the scientific way economists measure an agent's happiness; it's more versatile than a yes/no happy or unhappy - it measures how useful it is.
-* _e.g. Chatbot doctor assesses the efficacy of a treatment based on patient's needs_
 
 # Thanks!
