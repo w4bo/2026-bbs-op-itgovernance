@@ -885,7 +885,7 @@ Data
 Processing
 
 - **Artificial Intelligence (AI)**
-- **Machine Learning (ML)**
+- Machine Learning (ML)
 
 # Data Mining
 
@@ -1016,6 +1016,22 @@ _Utility-based reflex agent_
 
 * Utility is the scientific way economists measure an agent's happiness; it's more versatile than a yes/no happy or unhappy - it measures how useful it is.
 * _e.g. Chatbot doctor assesses the efficacy of a treatment based on patient's needs_
+
+# Agenda {background-color="#121011"}
+
+Introduction
+
+Data
+
+- DBMS, Big Data, Cloud solutions
+- Data Analytics
+- Data Management and Data Governance
+- Visualization of Data
+
+Processing
+
+- Artificial Intelligence (AI)
+- **Machine Learning (ML)**
 
 # Machine Learning
 
