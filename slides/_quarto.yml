@@ -35,6 +35,6 @@ format:
     reference-doc: slides.pptx
 
 author: Matteo Francia <br/> DISI --- University of Bologna <br/> m.francia@unibo.it
-title: Data Science: an Overview
+title: "Data Science: an Overview"
 bibliography:
   - refs/refs.bib

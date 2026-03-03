@@ -805,10 +805,10 @@ Visual Deception
 
 ::::{.columns}
 :::{.column width=50%}
-![Chart](img/orig_89.png)
+![Chart](img/orig_89.jpg)
 :::
 :::{.column width=50%}
-![Escher](img/orig_90.png)
+![Escher](img/orig_90.jpg)
 :::
 ::::
 
@@ -822,13 +822,20 @@ Visual Deception
 
 ![Upside down Y-axes](img/orig_92.jpg)
 
-
-
 > A stand-your-ground law, sometimes called a "line in the sand" or "no duty to retreat" law, provides that people may use deadly force when they reasonably believe it to be necessary to defend against certain violent crimes (right of self-defense). Under such a law, people have no duty to retreat before using deadly force in self-defense, so long as they are in a place where they are lawfully present.
 
 An __upside down Y-axes__ with descending (instead of ascending) values to the top might for a moment give the _wrong_ impression that the ‘Stand your ground law' was _positive_ in relation to gun deaths
 
 # Information Visualization Do's
+
+::::{.columns}
+:::{.column width=50%}
+![Data-ink ratio](img/orig_94.jpg)
+:::
+:::{.column width=50%}
+![Data-ink ratio](img/orig_95.png)
+:::
+::::
 
 Align with the _data savviness_ of end user
 
@@ -837,15 +844,6 @@ Align with the _data savviness_ of end user
 - Design a _simple_ and _understandable_ data model
 - _Pre-filter_ a dashboard to information that is _relevant_ for the user
 - Make charts with the _Data-Ink ratio_ in mind
-
-::::{.columns}
-:::{.column width=50%}
-![Chart](img/orig_94.png)
-:::
-:::{.column width=50%}
-![Escher](img/orig_95.png)
-:::
-::::
 
 # Information Visualization Don'ts
 
