@@ -62,15 +62,14 @@ Data has become the __fuel__ of industries as companies require data to function
 
 # Agenda {background-color="#121011"}
 
-- Introduction
+Introduction
 
 Data
 
-- DBMS, Big Data, Cloud solutions
 - **Data Analytics**
+- DBMS, Big Data, Cloud solutions
 - Data Management and Data Governance
 - Visualization of Data
-- Statistics & Probability
 
 Processing
 
@@ -106,18 +105,17 @@ Processing
 
 # Agenda {background-color="#121011"}
 
-- Introduction
+Introduction
 
 Data
 
+- Data Analytics
 - **DBMS, Big Data, Cloud solutions**
     - Big data
     - From databases to data platforms
     - Cloud computing
-- Data Analytics
 - Data Management and Data Governance
 - Visualization of Data
-- Statistics & Probability
 
 Processing
 
@@ -652,15 +650,14 @@ A model for enabling  **minimal management effort** or service provider interact
 
 # Agenda {background-color="#121011"}
 
-- Introduction
+Introduction
 
 Data
 
-- DBMS, Big Data, Cloud solutions
 - Data Analytics
+- DBMS, Big Data, Cloud solutions
 - **Data Management and Data Governance**
 - Visualization of Data
-- Statistics & Probability
 
 Processing
 
@@ -749,17 +746,16 @@ __Article 9(1)__: "Sensitive Personal Data" are personal data, revealing __racia
 * BIOMETRIC DATA (Art.4(14))
 * Data relating to criminal offences and convictions are addressed separately (as criminal law lies outside the EU's legislative competence)
 
-# Agenda
+# Agenda {background-color="#121011"}
 
 Introduction
 
 Data
 
-- DBMS, Big Data, Cloud solutions
 - Data Analytics
+- DBMS, Big Data, Cloud solutions
 - Data Management and Data Governance
 - **Visualization of Data**
-- Statistics & Probability
 
 Processing
 
@@ -873,7 +869,7 @@ Align with the _data savviness_ of end user
 
 ![Do's](img/orig_100.png)
 
-# Agenda
+# Agenda {background-color="#121011"}
 
 Introduction
 
@@ -887,7 +883,7 @@ Data
 Processing
 
 - **Artificial Intelligence (AI)**
-- Machine Learning (ML)
+- **Machine Learning (ML)**
 
 # Data Mining
 
@@ -1065,7 +1061,7 @@ Simple _reward feedback_ is required for the agent to learn which action is best
 
 Using reinforcement learning, AlphaGo Zero was able to _learn_ the game of Go from _scratch_.
 
-It _learned_ by _playing against itself_.
+- It _learned_ by _playing against itself_.
 - Alpha Go Zero was able to _outperform_ the version of Alpha Go known as Master that has _defeated_ world number one _Ke Jie_.
 - It only used black and white stones from the board as input features.
 - The agent is composed by a _neural network_.
@@ -1087,15 +1083,10 @@ It _learned_ by _playing against itself_.
 
 AI is concerned with getting _computers_ to _do tasks_ that would _normally_ require _human intelligence_.  ​
 
+- AI refers to a broad field of science encompassing _not only_ computer science but _also psychology_, _philosophy_, _linguistics_ and other areas.  ​
+
 ::::{.columns}
 :::{.column width=50%}
-- AI refers to a broad field of science encompassing _not only_ computer science but _also psychology_, _philosophy_, _linguistics_ and other areas.  ​
-:::
-:::{.column width=50%}
-![AI Agent](img/orig_148.jpg)
-:::
-::::
-
 __Applications:__   ​
 
 - Computer Vision  ​
@@ -1103,6 +1094,11 @@ __Applications:__   ​
 - Robotics & Motion  ​
 - Planning and optimization  ​
 - Knowledge capture
+:::
+:::{.column width=50%}
+![AI Agent](img/orig_148.jpg)
+:::
+::::
 
 # Artificial Intelligence (AI)
 
