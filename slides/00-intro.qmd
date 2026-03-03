@@ -25,26 +25,9 @@ Research topics
 
 # Participants presentation
 
-# Agenda
-
-Introduction
-
-Data
-
-- DBMS, Big Data, Cloud solutions
-- Data Analytics
-- Data Management and Data Governance
-- Visualization of Data
-- Statistics & Probability
-
-Processing
-
-- Artificial Intelligence (AI)
-- Machine Learning (ML)
-
 # Agenda {background-color="#121011"}
 
-- **Introduction**
+**Introduction**
 
 Data
 
@@ -839,14 +822,11 @@ Visual Deception
 
 ![Upside down Y-axes](img/orig_92.jpg)
 
-__Visual Deception - an __upside down Y-axes with descending (instead of ascending) values to the top might for a moment give the _wrong_ impression that the ‘Stand your ground law' was _positive_ in relation to gun deaths
+
 
 > A stand-your-ground law, sometimes called a "line in the sand" or "no duty to retreat" law, provides that people may use deadly force when they reasonably believe it to be necessary to defend against certain violent crimes (right of self-defense). Under such a law, people have no duty to retreat before using deadly force in self-defense, so long as they are in a place where they are lawfully present.
 
-
-How does it feel when you interpret an upside down Y-axes with descending (instead of ascending) values to the top?
-
-- This might for a moment give the wrong impression that the ‘Stand your ground law' was positive in relation to gun deaths
+An __upside down Y-axes with descending (instead of ascending) values to the top might for a moment give the _wrong_ impression that the ‘Stand your ground law' was _positive_ in relation to gun deaths
 
 # Information Visualization Do's
 
@@ -885,7 +865,7 @@ Align with the _data savviness_ of end user
 ![Chart](img/orig_98.png)
 :::
 :::{.column width=25%}
-![Chart](img/orig_99.png)
+![Chart](img/orig_99.jpg)
 :::
 ::::
 
