@@ -1221,17 +1221,25 @@ The agent is composed by a _neural network_.
 
 AlphaGo Zero played against itself millions of times, and with time and its own creativity, it had managed to find these techniques used by the masters of Go.
 
+::::{.columns}
+:::{.column width=33%}
 ![](img/orig_142.jpg)
-
+:::
+:::{.column width=33%}
 ![](img/orig_143.jpg)
-
+:::
+:::{.column width=33%}
 ![](img/orig_146.jpg)
+:::
+::::
 
 # What is Artificial Intelligence?
 
 AI is concerned with getting _computers_ to _do tasks_ that would _normally_ require _human intelligence_.  ​
 
-AI refers to a broad field of science encompassing _not only_ computer science but _also psychology_, _philosophy_, _linguistics_ and other areas.  ​
+- AI refers to a broad field of science encompassing _not only_ computer science but _also psychology_, _philosophy_, _linguistics_ and other areas.  ​
+
+![](img/orig_148.jpg)
 
 __Applications:__   ​
 
@@ -1241,107 +1249,71 @@ __Applications:__   ​
 - Planning and optimization  ​
 - Knowledge capture
 
-![](img/orig_148.jpg)
-
-
 # Artificial Intelligence (AI)
 
-![](img/orig_149.jpg)
+![Alan Turing](img/orig_149.jpg)
 
-_"AI is the science and engineering of making intelligent machines, especially intelligent computer programs." _
-
-_(Alan Turing)_
+> "AI is the science and engineering of making intelligent machines, especially intelligent computer programs."
 
 # AI: definition and types
 
- _Intelligence demonstrated by machines_
+_Intelligence demonstrated by machines_
 
- _According to the Computer Science view:_
+_According to the Computer Science view:_ __" Intelligent agents"__ perceiving their environment and taking __actions__ to achieve a __goal__.
 
- __" Intelligent agents"__ perceiving their environment and taking __actions__ to achieve a __goal__.
-
- _Narrow or Weak AI_ performs some __traditional goals__
+_Narrow or Weak AI_ performs some __traditional goals__
 
 * Reasoning, planning, learning, natural language processing, image recognition ...
 
- _Artificial general intelligence (AGI)_, also __called_ Strong AI_:
+_Artificial general intelligence (AGI)_, also _called Strong AI_:
 
 * Performs a full range of human abilities
-
 * Some predict it will be 2050 before we can achieve this
-
 * _We are not sure if we will ever understand consciousness_
-
-![](img/orig_150.png)
 
 # Artificial intelligence and the rational agent - 1/2
 
-![](img/orig_151.png)
+![Agent](img/orig_151.png)
 
 Agent comes from the Latin "agere" - to do.
 
-In AI we assume _agents_ are _rational_ and are _expected_ to achieve the _best_ outcome or _best expected_ outcome if there is _uncertainty_. They also act "_autonomously_"!
-
-_There are other approaches based on human behaviour or human thought but this approach is the most amenable to scientific development._
+- In AI we assume _agents_ are _rational_ and are _expected_ to achieve the _best_ outcome or _best expected_ outcome if there is _uncertainty_. They also act "_autonomously_"!
+- _There are other approaches based on human behaviour or human thought but this approach is the most amenable to scientific development._
 
 
 # Artificial intelligence and the rational agent - 2/2
 
-* __Stuart Russell and Peter Norvig__'s book, _Artificial Intelligence - A Modern Approach_, 3rd edition, defines a __rational agent__
+::::{.columns}
+:::{.column width=70%}
+__Stuart Russell and Peter Norvig__'s book, _Artificial Intelligence - A Modern Approach_, 3rd edition, defines a __rational agent__
 
 > "For each possible percept sequence, a rational agent should select an action that is expected to maximize its performance measure, given the evidence provided by the percept sequence and whatever built in knowledge the agent has."
 
 * We expect agents to be rational and this depends on _four things_:
-
 * The performance _measure_ that defines the criterion of _success_
-
 * The agent's prior _knowledge_ of the _environment_
-
 * The _actions_ that the agent _can_ perform
-
 * The agent's _percept sequence_ to date
-
-![](img/orig_152.png)
+:::
+:::{.column width=30%}
+![Stuart Russell and Peter Norvig](img/orig_152.png)
+:::
+::::
 
 # Schematic of AI (the Computer Science view) - 1/2
 
 __External Task Environment__
 
-__Percept__: the collective term of all the agent's perceptual inputs at any given time
+__Percept__: the collective term of all the agent's perceptual inputs at any given time (obtained from sensors)
 
 ![](img/orig_155.png)
 
-__Action__: to manipulate the environment
-
-> "Learn from experience, adapt, understand and handle abstract concepts, manipulate our environment".
-
-# Schematic of AI (the Computer Science view) - 2/2
-
-__External Task Environment__
-
-![](img/orig_156.png)
-
-__Percept__
-
-_the collective term of all the agent's perceptual inputs at any given time _
-
-![](img/orig_157.png)
-
-* Architecture
-
-* __Percept__ obtained from sensors
-
 * __Program__ delivers the agent functionality: mapping sensor precept to actuator actions
 
-* __Action__ undertaken by actuators
-
-__Action__
-
-_to manipulate the environment_
+* __Action__ undertaken by actuators to manipulate the environment
 
 * _"Learn from experience, adapt, understand and handle abstract concepts, manipulate our environment"._
-
- _A program will run on a computing device, improving its performance through learning _
+* _A program will run on a computing device, improving its performance through learning _
 
 # Agent examples
 
@@ -1350,82 +1322,32 @@ _to manipulate the environment_
 | __Central heating thermostat__ | Temperature, heating cost | Building, inhabitants, heating system | Inhabitant display, boiler, power | Temperature, keypad, phone, computer |
 | __Interactive sales chatbot__ | Number of sales | Customers, sale environment (internet, store, phone) | Robot, display, speaker | Keyboard, microphone, camera, kinesthetic sensors |
 
-![](img/orig_158.png)
 
-![](img/orig_159.png)
+# Types of agents
 
-# Types of agent - 1/2
-
-* _Reflex agent _
-
-* the program selects actions based on the current precept
+_Reflex agent_: the program selects actions based on the current precept
 
 * simple to understand and program 
+* _e.g. central heating overheats, program selects the action to switch off the power_
 
- _e.g. central heating overheats, program selects the action to switch off the power_
-
-* _Model-based reflex agent_
-
-The agent has a model of the world
+_Model-based reflex agent_: the agent has a model of the world
 
 * can make up for a lack of sensor (virtual world that doesn't need sensor data)
-
 * program now looks at the percept and updates its own internal world (state)
-
 * program can assess the possible actions and future states and uses reflex agent approach to determine what actions to take
+* _e.g. underwater vehicle loses visual sensors (silt - not enough light), continues using 3D mapped geometrical model _
 
- _e.g. underwater vehicle loses visual sensors (silt - not enough light), continues using 3D mapped geometrical model _
+# Types of agents
 
-![](img/orig_160.png)
-
-![](img/orig_161.png)
-
-# Types of agent - 2/2
-
-![](img/orig_162.png)
-
-* _Goal-based agent _
+_Goal-based agents_
 
 * the program needs more than just sensors and an internal world to implement the agent's functionality - it needs a goal
-
 * these programs are more versatile and flexible - can adapt to changes 
+* _e.g. autonomous vehicle can choose one of five exits from a motorway, the goal (safest, quickest, most scenic, cheapest, shortest) _
 
- _e.g. autonomous vehicle can choose one of five exits from a motorway, the goal (safest, quickest, most scenic, cheapest, shortest) _
-
-* _Utility-based reflex agent_
+_Utility-based reflex agent_
 
 * Utility is the scientific way economists measure an agent's happiness; it's more versatile than a yes/no happy or unhappy - it measures how useful it is.
-
- _e.g. Chatbot doctor assesses the efficacy of a treatment based on patient's needs _
-
-![](img/orig_163.png)
-
-# What was missing?
-
- _The learning from experience_
-
-* _Stuart Jonathan Russell_    (born 1962) is a British computer scientist known for his contributions to artificial intelligence. He is a professor of computer science at the University of California, Berkeley and was from 2008 to 2011 an adjunct professor of neurological surgery at the University of California, San Francisco
-
-* _Peter Norvig_ (born December 14, 1956) is an American computer scientist and Distinguished Education Fellow at the Stanford Institute for Human-Centered AI. He previously served as a director of research and search quality at Google
-
-![](img/orig_164.png)
-
-# Russell and Norvig - a general learning agent
-
-![](img/orig_165.png)
-
-__What the sensors say about the agent's performance__
-
-__External Task Environment __
-
-__Responsible for learning and improvement__
-
-Learning element
-
-Performance element
-
-Problem generator
-
-__Makes suggestions that are exploratory__
+* _e.g. Chatbot doctor assesses the efficacy of a treatment based on patient's needs_
 
 # Thanks!
