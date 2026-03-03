@@ -1,6 +1,6 @@
 ---
 title: Data Science
-subtitle: An overview
+subtitle: An Overview
 ---
 
 # Hi!
