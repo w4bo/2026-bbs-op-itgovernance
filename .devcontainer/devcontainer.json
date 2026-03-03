@@ -4,7 +4,7 @@
     //     "context": "..",
     //     "dockerfile": "../Dockerfile"
     // },
-    "image": "w4bo/python:1.0.4",
+    "image": "w4bo/quarto-slides:1.0.27",
     "workspaceMount": "source=${localWorkspaceFolder},target=/home,type=bind",
     "workspaceFolder": "/home",
     "features": {
@@ -35,7 +35,8 @@
                 "ms-python.black-formatter",
                 "ms-toolsai.jupyter",
                 "jock.SVG",
-                "tomoki1207.pdf"
+                "tomoki1207.pdf",
+                "quarto.quarto"
             ]
         }
     }
