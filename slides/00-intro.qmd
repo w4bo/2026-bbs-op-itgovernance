@@ -731,9 +731,12 @@ Four examples of _topics closely related_ to _data governance_ are:
 
 > Regulation on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation)
 
+# GDPR - what is?
+
 - The General Data Protection Regulation is the __toughest privacy__ and __security law__ in the __world replacing__ national data protection laws of __all EU member states__.
-- Though it was drafted and passed by the European Union (EU), it also has international reach - applying to any organization that processes data of EU data__ subjects.
-- The regulation was __put into __effect on May 25, 2018__. Fines for non-compliance will increase substantially up to a maximum fine of   € 20 million or 4% of global annual sales, whichever is higher
+- Though it was drafted and passed by the European Union (EU), __it also has international reach__ - applying to any organization that processes data of EU data subjects.
+- The regulation was __put into effect on May 25, 2018__.
+    - Fines for non-compliance will increase substantially up to a maximum fine of € 20 million or 4% of global annual sales, whichever is higher
 
 
 # GDPR - why?
