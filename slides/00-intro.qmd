@@ -847,25 +847,27 @@ Align with the _data savviness_ of end user
 
 # Information Visualization Don'ts
 
+::::{.columns}
+:::{.column width=33%}
+![Chart](img/orig_96.png)
+:::
+:::{.column width=33%}
+![Chart](img/orig_97.png)
+:::
+:::{.column width=33%}
+![Chart](img/orig_98.png)
+:::
+::::
+
 - Don't use Pie Charts (_Google: save the pies for dessert_)
-- Don't overload the (Dashboard) user with information
 - Don't present various unknown values
 - Don't use KPI with a bad metric or no target/context
 
-::::{.columns}
-:::{.column width=25%}
-![Chart](img/orig_96.png)
-:::
-:::{.column width=25%}
-![Chart](img/orig_97.png)
-:::
-:::{.column width=25%}
-![Chart](img/orig_98.png)
-:::
-:::{.column width=25%}
 ![Chart](img/orig_99.jpg)
-:::
-::::
+
+# Information Visualization Don'ts
+
+- Don't overload the (Dashboard) user with information
 
 # Information Visualization Do's
 
