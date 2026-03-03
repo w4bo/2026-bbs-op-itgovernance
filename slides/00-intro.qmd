@@ -611,17 +611,17 @@ A model for enabling  **minimal management effort** or service provider interact
 * *Measured service* (pay for the service you consume as you consume)
 * *Reliability* (fault-tolerance handled by the provider)
 
-# Big Data Landscape 2012
+#
 
-![](img/orig_36.jpg)
+![Big Data Landscape 2012](img/orig_36.jpg)
 
-# Big Data Landscape 2016
+#
 
-![](img/orig_37.png)
+![Big Data Landscape 2016](img/orig_37.png)
 
-# Big Data Landscape 2020
+#
 
-![](img/orig_38.png)
+![Big Data Landscape 2020](img/orig_38.png)
 
 # Agenda {background-color="#121011"}
 
@@ -760,18 +760,11 @@ __Article 4(1)__: "Any information relating to an __identified__ or __identifiab
 _SENSITIVE Personal data_
 
 __Article 9(1)__: "Sensitive Personal Data" are personal data, revealing __racial__ or __ethnic__ origin, __political opinions__, __religious__ or __philosophical__ beliefs, trade-union membership;
-    - __DATA CONCERNING HEALTH  (Art.4(15)) or sex life and sexual orientation;
-    - __GENETIC DATA  (Art.4(13))
-    - __BIOMETRIC DATA (Art.4(14)).
-    - Data relating to criminal offences and convictions are addressed separately (as criminal law lies outside the EU's legislative competence).
 
-__Examples:__
-
-* Religion
-* Political sympathies
-* Race
-* DNA data
-* History of illnesses
+* __DATA CONCERNING HEALTH  (Art.4(15)) or sex life and sexual orientation;
+* __GENETIC DATA  (Art.4(13))
+* __BIOMETRIC DATA (Art.4(14)).
+* Data relating to criminal offences and convictions are addressed separately (as criminal law lies outside the EU's legislative competence).
 
 # Agenda
 
@@ -794,9 +787,8 @@ Processing
 
 Data __visualization__ tools and technologies are __essential__ to __analyze massive amounts__ of information and make __data-driven decisions__.
 
-Data visualization helps to tell stories by curating data into a form easier to understand, highlighting the __trends__ and __outliers__.
-
-Data visualization can also __unlock the ability of less technical__ users to explore and interact with data
+- Data visualization helps to tell stories by curating data into a form easier to understand, highlighting the __trends__ and __outliers__.
+- Data visualization can also __unlock the ability of less technical__ users to explore and interact with data
 
 _A good visualization tells a story, removing the noise from data and highlighting the useful information._
 
@@ -860,41 +852,46 @@ How does it feel when you interpret an upside down Y-axes with descending (inste
 
 Align with the _data savviness_ of end user
 
-Choose the _right_ chart _type_ with respect to your data
+- Choose the _right_ chart _type_ with respect to your data
+- _Describe_ keywords, KPI's, terms, metrics
+- Design a _simple_ and _understandable_ data model
+- _Pre-filter_ a dashboard to information that is _relevant_ for the user
+- Make charts with the _Data-Ink ratio_ in mind
 
- _Describe_ keywords, KPI's, terms, metrics
-
-Design a _simple_ and _understandable_ data model
-
- _Pre-filter_ a dashboard to information that is _relevant_ for the user
-
-Make charts with the _Data-Ink ratio_ in mind
-
-![](img/orig_94.jpg)
-
-![](img/orig_95.png)
+::::{.columns}
+:::{.column width=50%}
+![Chart](img/orig_94.png)
+:::
+:::{.column width=50%}
+![Escher](img/orig_95.png)
+:::
+::::
 
 # Information Visualization Don'ts
 
-Don't use Pie Charts ( __google:_ save the pies for dessert_   )
+- Don't use Pie Charts (_Google: save the pies for dessert_)
+- Don't overload the (Dashboard) user with information
+- Don't present various unknown values
+- Don't use KPI with a bad metric or no target/context
 
-Don't overload the (Dashboard) user with information
+::::{.columns}
+:::{.column width=25%}
+![Chart](img/orig_96.png)
+:::
+:::{.column width=25%}
+![Chart](img/orig_97.png)
+:::
+:::{.column width=25%}
+![Chart](img/orig_98.png)
+:::
+:::{.column width=25%}
+![Chart](img/orig_99.png)
+:::
+::::
 
-Don't present various unknown values
+# Information Visualization Do's
 
-Don't use KPI with a bad metric or no target/context
-
-![](img/orig_96.png)
-
-![](img/orig_97.png)
-
-![](img/orig_98.png)
-
-![](img/orig_99.jpg)
-
-# Information Visualization Do's - 2/2
-
-![](img/orig_100.png)
+![Do's](img/orig_100.png)
 
 # Agenda
 
