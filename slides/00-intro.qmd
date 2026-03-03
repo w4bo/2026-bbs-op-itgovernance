@@ -1061,28 +1061,24 @@ Simple _reward feedback_ is required for the agent to learn which action is best
 
 ![Reinforcement signal](img/orig_140.png)
 
-# Reinforcement Learning | Example
+# Reinforcement Learning:   Example
 
 Using reinforcement learning, AlphaGo Zero was able to _learn_ the game of Go from _scratch_.
 
 It _learned_ by _playing against itself_.
-
-Alpha Go Zero was able to _outperform_ the version of Alpha Go known as Master that has _defeated_ world number one _Ke Jie_.
-
-It only used black and white stones from the board as input features.
-
-The agent is composed by a _neural network_.
-
-AlphaGo Zero played against itself millions of times, and with time and its own creativity, it had managed to find these techniques used by the masters of Go.
+- Alpha Go Zero was able to _outperform_ the version of Alpha Go known as Master that has _defeated_ world number one _Ke Jie_.
+- It only used black and white stones from the board as input features.
+- The agent is composed by a _neural network_.
+- AlphaGo Zero played against itself millions of times, and with time and its own creativity, it had managed to find these techniques used by the masters of Go.
 
 ::::{.columns}
-:::{.column width=33%}
+:::{.column width=40%}
 ![](img/orig_142.jpg)
 :::
-:::{.column width=33%}
+:::{.column width=30%}
 ![](img/orig_143.jpg)
 :::
-:::{.column width=33%}
+:::{.column width=30%}
 ![](img/orig_146.jpg)
 :::
 ::::
@@ -1091,9 +1087,14 @@ AlphaGo Zero played against itself millions of times, and with time and its own 
 
 AI is concerned with getting _computers_ to _do tasks_ that would _normally_ require _human intelligence_.  ​
 
+::::{.columns}
+:::{.column width=50%}
 - AI refers to a broad field of science encompassing _not only_ computer science but _also psychology_, _philosophy_, _linguistics_ and other areas.  ​
-
-![](img/orig_148.jpg)
+:::
+:::{.column width=50%}
+![AI Agent](img/orig_148.jpg)
+:::
+::::
 
 __Applications:__   ​
 
@@ -1110,8 +1111,6 @@ __Applications:__   ​
 > "AI is the science and engineering of making intelligent machines, especially intelligent computer programs."
 
 # AI: definition and types
-
-_Intelligence demonstrated by machines_
 
 _According to the Computer Science view:_ __" Intelligent agents"__ perceiving their environment and taking __actions__ to achieve a __goal__.
 
