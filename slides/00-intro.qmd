@@ -843,22 +843,13 @@ Humans are visual by __Nature__
 
 The human brain processes __Visual__ data _60.000 times_ better than __Textual__ data
 
-::::{.columns}
-:::{.column width=50%}
-![Chart](img/orig_87.png)
-:::
-:::{.column width=50%}
-![Chart](img/orig_88.png)
-:::
-::::
+![Tabular Data vs Chart](img/orig_87.png)
 
 # The Power of Visuals
 
-Visual Deception
-
 ::::{.columns}
 :::{.column width=50%}
-![Chart](img/orig_89.jpg)
+![Visual Deception](img/orig_89.jpg)
 :::
 :::{.column width=50%}
 ![Escher](img/orig_90.jpg)
@@ -869,7 +860,7 @@ Visual Deception
 
 ![Different feeling of interpretation](img/orig_91.png)
 
-- See also: [Most of Trump'’'s charts skew the data. And not always in his favor.](https://www.washingtonpost.com/graphics/politics/2016-election/trump-charts/)
+- See also: [Most of Trump's charts skew the data. And not always in his favor.](https://www.washingtonpost.com/graphics/politics/2016-election/trump-charts/)
 
 # The Power of Visuals
 
