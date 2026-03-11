@@ -1,6 +1,14 @@
 ---
+title-slide-attributes:
+  data-background-image: ./img/bbs-logo.png
+  data-background-size: contain
+  data-background-opacity: "1.0"
+  data-background-position: -30% 98%, center
 title: Data Science
 subtitle: An Overview
+format:
+  revealjs:
+    footer: "Matteo Francia - BBS (Data Science)"
 ---
 
 # Hi!
@@ -32,10 +40,8 @@ Research topics
 Data
 
 - DBMS, Big Data, Cloud solutions
-- Data Analytics
 - Data Management and Data Governance
 - Visualization of Data
-- Statistics & Probability
 
 Processing
 
@@ -44,9 +50,9 @@ Processing
 
 # Why is Data and Data Science Important?
 
-Data has become the __fuel__ of industries as companies require data to function, grow and improve their businesses
+Data has become the __fuel__ of industries as companies require data to function, grow, and improve their businesses.
 
-> Analysing a large amount of data to derive __meaningful insights__, with the help of Data Scientists assist companies in making valuable (and rationalized) decisions
+> Analysing a large amount of data to derive __meaningful insights__, with the help of Data Scientists, assists companies in making valuable (and rationalized) decisions
 
 - __Real__ world __problems__ can be __solved__ with Data Science
 - The number of __roles__ for Data Scientists has __grown__ by __650__% since 2012.
@@ -56,9 +62,13 @@ Data has become the __fuel__ of industries as companies require data to function
 
 # What is Data Science?
 
-> "*Data Science* is about extraction, preparation, analysis, visualization, and maintenance of information. It is a cross-disciplinary field which uses scientific methods and processes to draw insights from data."
+> "*Data Science* is about extraction, preparation, analysis, visualization, and maintenance of information. It is a cross-disciplinary field that uses scientific methods and processes to draw insights from data."
 
 ![Data Science](img/ds-01.svg)
+
+# The Background of a Data Scientist
+
+![Data Scientist](https://dmaiph.com/wp-content/uploads/2018/09/19989649_1487790424576061_5172679695012103031_n-2.jpg)
 
 # Agenda {background-color="#121011"}
 
@@ -103,7 +113,13 @@ Processing
 
 [https://www.gartner.com/en/information-technology/glossary](https://www.gartner.com/en/information-technology/glossary) (accessed 2022-08-01)
 
-# Examples?
+# Examples? [Data never sleeps](https://www.domo.com/it/learn/infographic/data-never-sleeps-ai-edition-2025)
+
+<img src="./img/dns12.png" class="center-img"/>
+
+# Examples? Targeted advertising
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/bf/Targeting_in_ad_system.png" class="center-img"/>
 
 # Agenda {background-color="#121011"}
 
@@ -177,7 +193,7 @@ The big-data cube [@meijer2012your]
 *Velocity*
 
 * Refers to the speed of data production...
-* ...and to the speed of consumption and analysis
+* ... and to the speed of consumption and analysis
 
 *Variety*
 
@@ -208,21 +224,26 @@ The big-data cube [@meijer2012your]
 
 # Why the hype?
 
+![Deep learning: accuracy vs data volume](img/dl_accuracy_data.jpg)
+
+# Why the hype?
+
 ![Big data and AI hype ([XAIX](https://www.justetf.com/en/etf-profile.html?isin=IE00BGV5VN51))](img/etf-bigdata.png)
 
 # Why the hype?
 
-- [The Tropical Island With the Hot Domain Name](https://www.bloomberg.com/news/articles/2023-08-31/ai-startups-create-digital-demand-for-anguilla-s-website-domain-name)
-- [These Prisoners Are Training AI](https://www.wired.com/story/prisoners-training-ai-finland/)
-- [Amazon Mechanical Turk](https://www.mturk.com/)
-- [IA e Lavoro Gen-Z](https://www.ilsole24ore.com/art/l-intelligenza-artificiale-gia-ruba-lavoro-giovani-gen-z-AHgfnmz)
-- [Google turns to nuclear to power AI data centres](https://www.bbc.com/news/articles/c748gn94k95o)
-- [‘We definitely messed up’: why did Google AI tool make offensive historical images?](https://www.theguardian.com/technology/2024/mar/08/we-definitely-messed-up-why-did-google-ai-tool-make-offensive-historical-images)
-- [Why Google's 'woke' AI problem won't be an easy fix](https://www.bbc.com/news/technology-68412620)
-
-# Why the hype?
-
-![Deep learning: accuracy vs data volume](img/dl_accuracy_data.jpg)
+- [(Mar 2, 2026) Anthropic's AI model Claude gets popularity boost after US military feud](https://www.theguardian.com/technology/2026/mar/02/claude-anthropic-ai-pentagon)
+- [(May 29, 2025) IA e Lavoro Gen-Z](https://www.ilsole24ore.com/art/l-intelligenza-artificiale-gia-ruba-lavoro-giovani-gen-z-AHgfnmz)
+- [(Apr 1, 2025) Ghibli effect: ChatGPT usage hits record after rollout of viral feature](https://www.reuters.com/technology/artificial-intelligence/ghibli-effect-chatgpt-usage-hits-record-after-rollout-viral-feature-2025-04-01/)
+- [(Jan 28, 2025) DeepSeek sparks AI stock selloff; Nvidia posts record market-cap loss](https://www.reuters.com/technology/chinas-deepseek-sets-off-ai-market-rout-2025-01-27/)
+- [(Jan 2, 2025) Nvidia's market value gets $2 trillion boost in 2024 on AI rally](https://www.reuters.com/technology/artificial-intelligence/global-markets-marketcap-pix-2025-01-02/)
+- [(Oct 15, 2024) Google turns to nuclear to power AI data centres](https://www.bbc.com/news/articles/c748gn94k95o)
+- [(Mar 22, 2024) The A.I. Boom Makes Millions for an Unlikely Industry Player](https://www.nytimes.com/2024/03/22/business/artificial-intelligence-anguilla.html)
+- [(Mar 8, 2024) ‘We definitely messed up’: why did Google AI tool make offensive historical images?](https://www.theguardian.com/technology/2024/mar/08/we-definitely-messed-up-why-did-google-ai-tool-make-offensive-historical-images)
+- [(Feb 28, 2024) Why Google's 'woke' AI problem won't be an easy fix](https://www.bbc.com/news/technology-68412620)
+- [(Sep 11, 2023) These Prisoners Are Training AI](https://www.wired.com/story/prisoners-training-ai-finland/)
+- [(Aug 31, 2023) The Tropical Island With the Hot Domain Name](https://www.bloomberg.com/news/articles/2023-08-31/ai-startups-create-digital-demand-for-anguilla-s-website-domain-name)
+- ... and many others
 
 # Why the hype?
 
@@ -425,7 +446,24 @@ Querying the cube with OLAP operators: *roll up*
 :::{.column width=50%}
 
 :::{.fragment}
+![Tableau: Sales By Date](./img/tab01.png)
+:::
+:::
+::::
+
+# From databases to data platforms
+
+Querying the cube with OLAP operators: *roll up*
+
+::::{.columns}
+:::{.column width=50%}
+
 ![Roll up](img/cube-rollup.svg)
+
+:::
+:::{.column width=50%}
+:::{.fragment}
+![Tableau: Sales By Month (roll up)](./img/tab02.png)
 :::
 :::
 ::::
@@ -436,13 +474,11 @@ Querying the cube with OLAP operators: *drill down*
 
 ::::{.columns}
 :::{.column width=50%}
-
-![Roll up](img/cube-rollup.svg)
-
+![Drill down](img/cube-drilldown.svg)
 :::
 :::{.column width=50%}
 :::{.fragment}
-![Drill down](img/cube-drilldown.svg)
+![Tableau: Sales By Month and Store Type (drill down)](./img/tab03.png)
 :::
 :::
 ::::
@@ -638,17 +674,17 @@ A model for enabling  **minimal management effort** or service provider interact
 * *Measured service* (pay for the service you consume as you consume)
 * *Reliability* (fault-tolerance handled by the provider)
 
-#
+# Big Data Landscape 2012
 
-![Big Data Landscape 2012](img/orig_36.jpg)
+<img src="img/orig_36.jpg" class="center-img"/>
 
-#
+# Big Data Landscape 2016
 
-![Big Data Landscape 2016](img/orig_37.png)
+<img src="img/orig_37.png" class="center-img"/>
 
-#
+# Big Data Landscape 2020
 
-![Big Data Landscape 2020](img/orig_38.png)
+<img src="img/orig_38.png" class="center-img"/>
 
 # Agenda {background-color="#121011"}
 
@@ -748,6 +784,25 @@ __Article 9(1)__: "Sensitive Personal Data" are personal data, revealing __racia
 * BIOMETRIC DATA (Art.4(14))
 * Data relating to criminal offences and convictions are addressed separately (as criminal law lies outside the EU's legislative competence)
 
+# AI Act
+
+European Union has introduced new legislation on artificial intelligence: The [EU AI Act](https://artificialintelligenceact.eu/ai-act-explorer/)
+
+- See the [high level summary](https://artificialintelligenceact.eu/high-level-summary/)
+
+![AI Act](https://futurodigitale.infocert.it/wp-content/uploads/2025/04/EU-AI-ACT-2048x811.jpeg)
+
+# AI Act
+
+The AI Act classifies AI according to its risk:
+
+- Unacceptable risk is prohibited (e.g. social scoring systems and manipulative AI).
+- High-risk AI systems are regulated.
+- Limited risk AI systems are subject to lighter transparency obligations
+    - E.g., developers and deployers must ensure that end-users are aware that they are interacting with AI (chatbots and deepfakes).
+- Minimal risk is unregulated (e.g., AI enabled video games and spam filters).
+
+
 # Agenda {background-color="#121011"}
 
 Introduction
@@ -814,6 +869,8 @@ Visual Deception
 
 ![Different feeling of interpretation](img/orig_91.png)
 
+- See also: [Most of Trump'’'s charts skew the data. And not always in his favor.](https://www.washingtonpost.com/graphics/politics/2016-election/trump-charts/)
+
 # The Power of Visuals
 
 [How to lie with data visualization](https://heap.io/blog/data-stories/how-to-lie-with-data-visualization)
@@ -824,17 +881,14 @@ Visual Deception
 
 An __upside down Y-axes__ with descending (instead of ascending) values to the top might for a moment give the _wrong_ impression that the ‘Stand your ground law' was _positive_ in relation to gun deaths
 
+# The Power of Visuals (and Statistics)
+
+![[True Fact: The Lack of Pirates Is Causing Global Warming](https://www.forbes.com/sites/erikaandersen/2012/03/23/true-fact-the-lack-of-pirates-is-causing-global-warming/)](https://blogs-images.forbes.com/erikaandersen/files/2012/03/w1467103173.jpg)
+
 # Information Visualization Do's
 
 ::::{.columns}
 :::{.column width=50%}
-![Data-ink ratio](img/orig_94.jpg)
-:::
-:::{.column width=50%}
-![Data-ink ratio](img/orig_95.png)
-:::
-::::
-
 Align with the _data savviness_ of end user
 
 - Choose the _right_ chart _type_ with respect to your data
@@ -842,6 +896,16 @@ Align with the _data savviness_ of end user
 - Design a _simple_ and _understandable_ data model
 - _Pre-filter_ a dashboard to information that is _relevant_ for the user
 - Make charts with the _Data-Ink ratio_ in mind
+:::
+:::{.column width=50%}
+![Data-ink ratio](img/orig_95.png)
+:::
+::::
+
+A higher ratio (closer to 1) indicates less "chartjunk"
+
+- E.g., non-essential, distracting elements like 3D effects, heavy grids, or unnecessary backgrounds
+
 
 # Information Visualization Don'ts
 
@@ -861,15 +925,15 @@ Align with the _data savviness_ of end user
 - Don't present various unknown values
 - Don't use KPI with a bad metric or no target/context
 
-![Chart](img/orig_99.jpg)
-
 # Information Visualization Don'ts
+
+![Chart](img/orig_99.jpg)
 
 - Don't overload the (Dashboard) user with information
 
 # Information Visualization Do's
 
-![Do's](img/orig_100.png)
+<img src="img/orig_100.png" class="center-img">
 
 # Agenda {background-color="#121011"}
 
@@ -886,335 +950,3 @@ Processing
 
 - **Artificial Intelligence (AI)**
 - Machine Learning (ML)
-
-# Data Mining
-
-> **Data mining** [@chakrabarti2006data]
->
-> - ... Is the process of extracting and discovering patterns in large data sets
-> - ... Involving methods at the intersection of machine learning, statistics, and database systems.
-> - It is an interdisciplinary subfield of computer science and statistics
-
-![AI, Data Mining, and Machine Learning](./img/00-ml/data-mining-Venn-diagram.png)
-
-# What is Artificial Intelligence?
-
-AI is concerned with getting _computers_ to _do tasks_ that would _normally_ require _human intelligence_.  ​
-
-- AI refers to a broad field of science encompassing _not only_ computer science but _also psychology_, _philosophy_, _linguistics_ and other areas.  ​
-
-::::{.columns}
-:::{.column width=50%}
-__Applications:__   ​
-
-- Computer Vision  ​
-- Natural language processing (NLP)  ​
-- Robotics & Motion  ​
-- Planning and optimization  ​
-- Knowledge capture
-:::
-:::{.column width=50%}
-![AI Agent](img/orig_148.jpg)
-:::
-::::
-
-# Artificial Intelligence (AI)
-
-![Alan Turing](img/orig_149.jpg)
-
-> "AI is the science and engineering of making intelligent machines, especially intelligent computer programs."
-
-# AI: definition and types
-
-_According to the Computer Science view:_ __"Intelligent agents"__ perceiving their environment and taking __actions__ to achieve a __goal__.
-
-_Narrow or Weak AI_ performs some __traditional goals__
-
-* Reasoning, planning, learning, natural language processing, image recognition ...
-
-_Artificial general intelligence (AGI)_, also _called Strong AI_:
-
-* Performs a full range of human abilities
-* Some predict it will be 2050 before we can achieve this
-* _We are not sure if we will ever understand consciousness_
-
-# Artificial intelligence and the rational agent - 1/2
-
-![Agent](img/orig_151.png)
-
-Agent comes from the Latin "agere" - to do.
-
-- In AI we assume _agents_ are _rational_ and are _expected_ to achieve the _best_ outcome or _best expected_ outcome if there is _uncertainty_. They also act "_autonomously_"!
-- _There are other approaches based on human behaviour or human thought but this approach is the most amenable to scientific development._
-
-
-# Artificial intelligence and the rational agent - 2/2
-
-::::{.columns}
-:::{.column width=70%}
-__Stuart Russell and Peter Norvig__'s book, _Artificial Intelligence - A Modern Approach_ defines an __agent__
-
-> "For each possible percept sequence, a rational agent should select an action that is expected to maximize its performance measure, given the evidence provided by the percept sequence and whatever built in knowledge the agent has."
-
-* We expect agents to be rational and this depends on _four things_:
-* The performance _measure_ that defines the criterion of _success_
-* The agent's prior _knowledge_ of the _environment_
-* The _actions_ that the agent _can_ perform
-* The agent's _percept sequence_ to date
-:::
-:::{.column width=30%}
-![Stuart Russell and Peter Norvig](img/orig_152.png)
-:::
-::::
-
-# Schematic of AI (the Computer Science view) - 1/2
-
-::::{.columns}
-:::{.column width=30%}
-![External Task Environment](img/orig_155.png)
-:::
-:::{.column width=70%}
-* __Percept__: the collective term of all the agent's perceptual inputs at any given time (obtained from sensors)
-* __Program__ delivers the agent functionality: mapping sensor precept to actuator actions
-* __Action__ undertaken by actuators to manipulate the environment
-    * _"Learn from experience, adapt, understand and handle abstract concepts, manipulate our environment"._
-    * _A program will run on a computing device, improving its performance through learning _
-:::
-::::
-
-# Agent examples
-
-| Agent Description | Performance Measure | Environment | Actuators | Sensors |
-|:-: |:-: |:-: |:-: |:-: |
-| __Central heating thermostat__ | Temperature, heating cost | Building, inhabitants, heating system | Inhabitant display, boiler, power | Temperature, keypad, phone, computer |
-| __Interactive sales chatbot__ | Number of sales | Customers, sale environment (internet, store, phone) | Robot, display, speaker | Keyboard, microphone, camera, kinesthetic sensors |
-
-
-# Types of agents
-
-_Reflex agent_: the program selects actions based on the current precept
-
-* simple to understand and program 
-* _e.g. central heating overheats, program selects the action to switch off the power_
-
-_Model-based reflex agent_: the agent has a model of the world
-
-* can make up for a lack of sensor (virtual world that doesn't need sensor data)
-* program now looks at the percept and updates its own internal world (state)
-* program can assess the possible actions and future states and uses reflex agent approach to determine what actions to take
-* _e.g. underwater vehicle loses visual sensors (silt - not enough light), continues using 3D mapped geometrical model _
-
-# Types of agents
-
-_Goal-based agents_
-
-* the program needs more than just sensors and an internal world to implement the agent's functionality - it needs a goal
-* these programs are more versatile and flexible - can adapt to changes
-* _e.g. autonomous vehicle can choose one of five exits from a motorway, the goal (safest, quickest, most scenic, cheapest, shortest) _
-
-_Utility-based reflex agent_
-
-* Utility is the scientific way economists measure an agent's happiness; it's more versatile than a yes/no happy or unhappy - it measures how useful it is.
-* _e.g. Chatbot doctor assesses the efficacy of a treatment based on patient's needs_
-
-# Agenda {background-color="#121011"}
-
-Introduction
-
-Data
-
-- DBMS, Big Data, Cloud solutions
-- Data Analytics
-- Data Management and Data Governance
-- Visualization of Data
-
-Processing
-
-- Artificial Intelligence (AI)
-- **Machine Learning (ML)**
-
-# Machine Learning
-
-Machine learning (ML) is a field of study in artificial intelligence
-
-- The development and study of statistical algorithms that can learn from data
-- ... and generalize to unseen data and thus perform tasks without explicit (coding) instructions
-
-> **Machine Learning** [@mitchell1997machine] is the study of algorithms that
->
-> - Improve their performance $P$
-> - At some task $T$
-> - With experience $E$
-> - A well-defined learning task is given by $<P, T, E>$
-
-# Classical Programming vs Machine Learning
-
-![Classical Programming](./img/00-ml/ml1.svg)
-
-![Machine Learning](./img/00-ml/ml2.svg)
-
-# A Simple Example: Calculator
-
-Create a calculator that computes the sum of two numbers
-
-**T**ask: $Z = X + Y$
-
-# Classical Programming
-
-<img src="./img/00-ml/ml3.svg" class="center-img">
-
-# Machine Learning
-
-(Supervised) Machine learning is usually divided into two steps:
-
-- Train with **E**xperience (training set)
-- Generalize to unseen data (test set) and evaluate the **P**erformance
-- Training and test sets are not overlapping (they do not share the same data)
-
-# Training the model
-
-**E**xperience: training data
-
-<img src="./img/00-ml/ml4.svg" class="center-img">
-
-# Testing the Model
-
-**P**erformance: checking accurate predictions
-
-<img src="./img/00-ml/ml5.svg" class="center-img">
-
-#
-
-![What is machine learning?](https://imgs.xkcd.com/comics/machine_learning.png)
-
-# Taxonomy of Machine Learning
-
-Machine Learning
-
-- **Supervised Learning**: models are trained using labeled data to learn a mapping from inputs to labels
-- **Unsupervised Learning**: algorithms find patterns, structures, and insights in unlabeled data without predefined answers
-- **Reinforcement Learning**: an agent learns to make optimal decisions by interacting with a dynamic environment through trial-and-error
-
-# Taxonomy of Machine Learning
-
-Machine Learning
-
-- *Supervised Learning*: models are trained using labeled data to learn a mapping from inputs to *labels*
-    - **Classification**: the label is nominal; spam detection (`yes`/`no`), diagnosis (`healthy`/`sick`)
-    - **Regression**: the label is continuous; house price, temperature
-- Unsupervised Learning
-- Reinforcement Learning
-
-# Taxonomy of Machine Learning
-
-Machine Learning
-
-- *Supervised Learning*
-    - *Classification*: the label is nominal; spam detection (`yes`/`no`), diagnosis (`healthy`/`sick`)
-        - **Model-Based Methods**: learn an explicit model to generalize from training data
-            - Decision Trees
-            - Neural Networks
-        - **Instance-Based Methods**: store training examples and compare new inputs to known cases
-            - k-Nearest Neighbors
-        - **Ensemble Methods**: combine multiple models to improve performance
-            - Random Forests
-    - Regression
-        - Model-Based Methods
-        - Instance-Based Methods
-- Unsupervised Learning
-- Reinforcement Learning
-
-# Classification: Model-Based Methods
-
-Training: learn a model to generalize from training data
-
-```{mermaid}
-%%| echo: false
-flowchart LR
-    A[(Training Data)] --> B[Training / Model Learning]
-    B --> C[(Trained Model)]
-```
-
-# Classification: Model-Based Methods
-
-<img src="./img/00-ml/ml7.svg" class="center-img">
-
-# Classification: Model-Based Methods
-
-Testing: verify the generalization of the model on unseen data
-
-- Use the trained model to make predictions on new data
-- Compare predictions to ground truth for performance evaluation
-
-```{mermaid}
-%%| echo: false
-flowchart LR
-    A[(Test Data)] --> B[Trained Model]
-    B --> C[(Predicted Class)]
-    C --> D[Evaluation]
-    E[(Real Class / Ground Truth)] --> D
-    D --> F(Performance Metric)
-```
-
-# Classification: Model-Based Methods
-
-<img src="./img/00-ml/ml6.svg" class="center-img">
-
-# Classification: Instance-Based Methods
-
-Instance-based methods: store training examples and compare new inputs to known cases
-
-* No explicit training phase
-* Rely on similarity or distance measures
-* Can be sensitive to noise and data size
-
-```{mermaid}
-%%| echo: false
-flowchart LR
-    A[(Test Data)] --> B[Compare]
-    C[(Training Data)] --> B
-    B --> D[(Predicted Class)]
-    D --> E[Evaluation]
-    F[(Real Class / Ground Truth)] --> E
-    E --> G(Performance Metric)
-```
-
-# Classification: Instance-Based Methods
-
-![k-nearest neighbors](https://upload.wikimedia.org/wikipedia/commons/7/78/KNN_decision_surface_animation.gif)
-
-# Reinforcement Learning
-
-_Reinforcement machine learning algorithms_ interact with their environment by producing actions and discovering errors or rewards.
-
-- _Trial and error search_ and _delayed reward_ are the most relevant characteristics of reinforcement learning.
-
-- Allows machines and software agents to _automatically determine_ the _ideal behavior_ within a specific context in order to maximize its performance.
-
-Simple _reward feedback_ is required for the agent to learn which action is best - a _reinforcement signal_.
-
-![Reinforcement signal](img/orig_140.png)
-
-# Reinforcement Learning: Example
-
-Using reinforcement learning, AlphaGo Zero was able to _learn_ the game of Go from _scratch_.
-
-- It _learned_ by _playing against itself_.
-- Alpha Go Zero was able to _outperform_ the version of Alpha Go known as Master that has _defeated_ world number one _Ke Jie_.
-- It only used black and white stones from the board as input features.
-- The agent is composed by a _neural network_.
-- AlphaGo Zero played against itself millions of times, and with time and its own creativity, it had managed to find these techniques used by the masters of Go.
-
-::::{.columns}
-:::{.column width=40%}
-![](img/orig_142.jpg)
-:::
-:::{.column width=30%}
-![](img/orig_143.jpg)
-:::
-:::{.column width=30%}
-![](img/orig_146.jpg)
-:::
-::::
-
-# Thanks!
