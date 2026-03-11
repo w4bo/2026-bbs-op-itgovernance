@@ -1,3 +1,12 @@
+## [1.0.6](https://github.com/w4bo/2026-bbs-op-itgovernance/compare/1.0.5...1.0.6) (2026-03-11)
+
+### Bug Fixes
+
+* update slides ([0819b72](https://github.com/w4bo/2026-bbs-op-itgovernance/commit/0819b726653298306eb90bbb22e0bb944a078d6a))
+* update slides ([70bfa62](https://github.com/w4bo/2026-bbs-op-itgovernance/commit/70bfa624ec99894f69cfeabe0e2e14a6f3323478))
+* update slides ([c95c6da](https://github.com/w4bo/2026-bbs-op-itgovernance/commit/c95c6da2acd1e46082d0fcb7ff4fe3a08cd15e0c))
+* update the slides ([7dea058](https://github.com/w4bo/2026-bbs-op-itgovernance/commit/7dea058bfa57a7d71b653a15c69d6653371218b1))
+
 ## [1.0.5](https://github.com/w4bo/2026-bbs-op-itgovernance/compare/1.0.4...1.0.5) (2026-03-11)
 
 ### Bug Fixes
