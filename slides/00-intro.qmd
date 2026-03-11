@@ -897,7 +897,6 @@ A higher ratio (closer to 1) indicates less "chartjunk"
 
 - E.g., non-essential, distracting elements like 3D effects, heavy grids, or unnecessary backgrounds
 
-
 # Information Visualization Don'ts
 
 ::::{.columns}
