@@ -912,15 +912,13 @@ A higher ratio (closer to 1) indicates less "chartjunk"
 :::
 ::::
 
-- Don't use Pie Charts (_Google: save the pies for dessert_)
+- Don't use Pie Charts ([Save the pies for dessert](https://www.perceptualedge.com/articles/visual_business_intelligence/save_the_pies_for_dessert.pdf))
 - Don't present various unknown values
 - Don't use KPI with a bad metric or no target/context
 
 # Information Visualization Don'ts
 
-![Chart](img/orig_99.jpg)
-
-- Don't overload the (Dashboard) user with information
+![Don't overload the user with information](img/orig_99.jpg)
 
 # Information Visualization Do's
 
@@ -941,3 +939,5 @@ Processing
 
 - **Artificial Intelligence (AI)**
 - Machine Learning (ML)
+
+# References
